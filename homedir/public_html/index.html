@@ -1,0 +1,105 @@
+<html>
+
+<head>
+	<title>Mundos de Mirr</title>
+	<style type="text/css">
+	<!--
+	BODY { margin: 0; background-color: #483521; }
+	BODY, TD { font-family: Georgia, Times, Times New Roman, sans-serif; font-size: 9pt; }
+	H1 { margin: 0; }
+	UL, UL LI { margin: 0; padding: 0; list-style: none; }
+	UL { padding-top: 15px; }
+	IMG { border: 0; vertical-align: middle; }
+	#conteudo { width: 700px; height: 500px; padding-top: 15px; background: url("index/rosa_dos_ventos.jpg") repeat-y #FBF3D9; }
+	HTML>BODY #conteudo { height: 485px; }
+	#titulo { width: 700px; height: 74px; }
+
+	#diarioDeBordo {
+		float: left;
+		text-align: center;
+	}
+	#diarioDeBordo, #diarioDeBordo UL, #diarioDeBordo LI {
+		width: 232px;
+	}
+
+	#mirrEnciclopedia {
+		float: right;
+		text-align: center;
+	}
+	#mirrEnciclopedia, #mirrEnciclopedia UL, #mirrEnciclopedia LI {
+		width: 234px;
+	}
+
+	#rodape {
+		clear: both;
+		padding-top: 50px;
+		padding-top: 10px;
+		width: 700px;
+	}
+	#facebook {
+		height: 80px;
+		overflow: auto;
+	}
+	-->
+	</style>
+	<script type="text/javascript">
+	<!--
+	var imgs = new Array();
+	window.onload = function () {
+		var a = document.getElementsByTagName("a");
+		if(a) {
+			imgs.length = a.length * 2;
+			for(i = 0; i < a.length; i++) {
+				imgs[ i * 2     ] = new Image();
+				imgs[(i * 2) + 1] = new Image();
+				imgs[ i * 2     ].src = a[i].childNodes[0].src;
+				imgs[(i * 2) + 1].src = a[i].childNodes[0].src.replace(/([^2]).jpg/, "$12.jpg");
+				a[i].onmouseover = function (e) { this.childNodes[0].src = this.childNodes[0].src.replace(/([^2]).jpg/, "$12.jpg"); };
+				a[i].onmouseout  = function (e) { this.childNodes[0].src = this.childNodes[0].src.replace(/2.jpg/, ".jpg"); };
+			}
+		}
+	};
+	-->
+	</script>
+	<script src="http://connect.facebook.net/pt_BR/all.js#xfbml=1"></script>
+</head>
+
+<body>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%"><tr><td align="center">
+		<div id="conteudo">
+			<h1 id="titulo"><img src="index/titulo.jpg" width="352" height="47" alt="Mundos de Mirr" /></h1>
+			<div id="diarioDeBordo">
+				<div id="diarioDeBordoTitulo"><a href="http://www.mundosdemirr.com/blog/"><img src="index/diario_de_bordo.jpg" width="184" height="33" alt="Diario de Bordo" /></a></div>
+				<ul>
+					<li><a href="http://www.mundosdemirr.com/blog/"                     ><img src="index/artigos.jpg"        width="73"  height="29" alt="Artigos"        /></a></li>
+					<li><a href="http://www.mundosdemirr.com/blog.php?pg=o_autor"       ><img src="index/o_autor.jpg"        width="73"  height="29" alt="O Autor"        /></a></li>
+					<li><a href="http://www.mundosdemirr.com/blog.php?pg=livros"        ><img src="index/livros.jpg"         width="73"  height="27" alt="Livros"         /></a></li>
+					<li><a href="http://www.mundosdemirr.com/blog.php?pg=agradecimentos"><img src="index/agradecimentos.jpg" width="127" height="29" alt="Agradecimentos" /></a></li>
+					<li><a href="http://www.mundosdemirr.com/blog.php?pg=contato"       ><img src="index/contato.jpg"        width="73"  height="29" alt="Contato"        /></a></li>
+				</ul>
+			</div>
+			<div id="mirrEnciclopedia">
+				<div id="mirrEnciclopediaTitulo"><a href="http://mundosdemirr.com/wiki/"><img src="index/mirr_enciclopedia.jpg" width="208" height="33" alt="Mirr Enciclopedia" /></a></div>
+				<ul>
+					<li><a href="http://mundosdemirr.com/wiki/index.php?title=Categoria:Hist%C3%B3ria" ><img src="index/historia.jpg"  width="83" height="29" alt="Historia"  /></a></li>
+					<li><a href="http://mundosdemirr.com/wiki/index.php?title=Categoria:Lugares"       ><img src="index/lugares.jpg"   width="83" height="29" alt="Lugares"   /></a></li>
+					<li><a href="http://mundosdemirr.com/wiki/index.php?title=Categoria:Pessoas"       ><img src="index/pessoas.jpg"   width="83" height="27" alt="Pessoas"   /></a></li>
+					<li><a href="http://mundosdemirr.com/wiki/index.php?title=Categoria:Culturas"      ><img src="index/culturas.jpg"  width="83" height="29" alt="Culturas"  /></a></li>
+					<li><a href="http://mundosdemirr.com/wiki/index.php?title=Categoria:Religi%C3%B5es"><img src="index/religioes.jpg" width="83" height="29" alt="Religioes" /></a></li>
+					<li><a href="http://mundosdemirr.com/wiki/index.php?title=Categoria:Magias"        ><img src="index/magia.jpg"     width="83" height="29" alt="Magia"     /></a></li>
+					<li><a href="http://mundosdemirr.com/wiki/index.php?title=Categoria:Besti%C3%A1rio"><img src="index/bestiario.jpg" width="83" height="29" alt="Bestiario" /></a></li>
+				</ul>
+			</div>
+			<div id="rodape">
+				<div id="facebook">
+					<fb:like href="http://www.mundosdemirr.com/" show_faces="true" width="680"></fb:like>
+				</div>
+				Copyright &copy; 2005 ~ 2008 - Claudio Villa<br />
+				Todo o conteúdo deste blog é protegido por leis de copyright,<br />
+				se deseja reproduzir parte  de seu conteúdo original, favor entrar em contato.<br />
+			</div>
+		</div>
+	</td></tr></table>
+</body>
+
+</html>

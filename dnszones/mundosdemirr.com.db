@@ -1,0 +1,49 @@
+; cPanel first:11.34.0.9 (update_time):1503079664 Cpanel::ZoneFile::VERSION:1.3 hostname:server1.ddftec.com latest:11.64.0.36
+; Zone file for mundosdemirr.com
+$TTL 14400
+mundosdemirr.com.	86400	IN	SOA	ns.ddftec.com.	reporter.hosted.com.br.	(
+						2017081800 ;Serial Number
+						3600 ;refresh
+						7200 ;retry
+						1209600 ;expire
+						86400	)
+; mundosdemirr.com.	86400	IN	SOA	ns.ddftec.com.	reporter.hosted.com.br.	( ; Previous value removed by cPanel transfer auto-merge on 20170803191721 GMT
+; 						2017031000 ;Serial Number ; Previous value removed by cPanel transfer auto-merge on 20170803191721 GMT
+; 						86400 ;refresh ; Previous value removed by cPanel transfer auto-merge on 20170803191721 GMT
+; 						7200 ;retry ; Previous value removed by cPanel transfer auto-merge on 20170803191721 GMT
+; 						3600000 ;expire ; Previous value removed by cPanel transfer auto-merge on 20170803191721 GMT
+; 						86400	) ; Previous value removed by cPanel transfer auto-merge on 20170803191721 GMT
+
+mundosdemirr.com.	86400	IN	NS	ns.ddftec.com.
+mundosdemirr.com.	86400	IN	NS	ns2.ddftec.com.
+
+
+mundosdemirr.com.	14400	IN	A	209.239.121.100
+
+localhost	14400	IN	A	127.0.0.1
+
+mundosdemirr.com.	14400	IN	MX	0	mundosdemirr.com.
+
+mail	14400	IN	CNAME	mundosdemirr.com.
+www	14400	IN	CNAME	mundosdemirr.com.
+ftp	14400	IN	A	209.239.121.100
+; ftp	14400	IN	A	67.205.102.85 ; Previous value removed by cPanel transfer auto-merge on 20170803191721 GMT
+cpanel	14400	IN	A	209.239.121.100
+whm	14400	IN	A	209.239.121.100
+webmail	14400	IN	A	209.239.121.100
+webdisk	14400	IN	A	209.239.121.100
+autoconfig	14400	IN	A	209.239.121.100
+autodiscover	14400	IN	A	209.239.121.100
+_autodiscover._tcp 14400 IN SRV 0 0 443 cpanelemaildiscovery.cpanel.net.
+cpcalendars	14400	IN	A	209.239.121.100
+_caldav._tcp 14400 IN SRV 0 0 2079 server1.ddftec.com.
+_caldavs._tcp 14400 IN SRV 0 0 2080 server1.ddftec.com.
+_carddav._tcp 14400 IN SRV 0 0 2079 server1.ddftec.com.
+_carddavs._tcp 14400 IN SRV 0 0 2080 server1.ddftec.com.
+_caldav._tcp	14400	IN	TXT	path=/
+_caldavs._tcp	14400	IN	TXT	path=/
+_carddav._tcp	14400	IN	TXT	path=/
+_carddavs._tcp	14400	IN	TXT	path=/
+cpcontacts	14400	IN	A	209.239.121.100
+mundosdemirr.com. IN TXT "v=spf1 +a +mx +ip4:209.239.121.100 ~all"
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqgRkH7f6Wk2qVj/uOK8axT52bwvvDJW1iLmEjBxEForfA/hce44N90IvtJ1Wvl1KBTth9Z6M9+SSThWUbf6GxakzqAkp4tby5MYpjb24RWGLdktfCLZNyZby9nHoiIVVX/JnD91M/+KqHWnV5geamYuBS11aCcerWZZNeWCqRAd9qKO+tt+2EZ1VLxg1hRyoc" mvQKAOjU28txbq88Qt9akC+NCL83UBvaORix8HCrzU5nA9xjP4dpgVh7YWiOc4nvmRUPus7j5tkgaiCo67kwPFrSPiwW6a8D3ddpkyrDFSovnLP4cJAbW/ymOj1iXuTX1d+kQ9AqBN5MCpcW77zRwIDAQAB\;

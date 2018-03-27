@@ -1,0 +1,665 @@
+AWSTATS DATA FILE 7.4 (build 20140726)
+# If you remove this file, all statistics for date 201707 will be lost/reset.
+# Last config file used to build this data file was /home/mundosde/tmp/awstats/awstats.mundosdemirr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2691                
+POS_VISITOR 12711               
+POS_DAY 18776               
+POS_DOMAIN 3555                
+POS_LOGIN 4048                
+POS_ROBOT 4203                
+POS_WORMS 4842                
+POS_EMAILSENDER 4973                
+POS_EMAILRECEIVER 5116                
+POS_SESSION 19547               
+POS_SIDER 19715               
+POS_FILETYPES 5251                
+POS_DOWNLOADS 5463                
+POS_OS 5531                
+POS_BROWSER 5810                
+POS_SCREENSIZE 6983                
+POS_UNKNOWNREFERER 7057                
+POS_UNKNOWNREFERERBROWSER 7700                
+POS_ORIGIN 8270                
+POS_SEREFERRALS 8409                
+POS_PAGEREFS 8591                
+POS_SEARCHWORDS 9117                
+POS_KEYWORDS 9269                
+POS_MISC 2355                
+POS_ERRORS 9328                
+POS_CLUSTER 3904                
+POS_SIDER_404 9436                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20170801003312 44 7635 11460581532508
+FirstTime 20170701022811
+LastTime 20170731232516
+LastUpdate 20170801092809 44 0 43 0 0
+TotalVisits 157                 
+TotalUnique 120                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 172                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 6 32 2407922 701 808 12617002
+1 10 11 185998 188 244 3587838
+2 11 13 426175 106 135 870275
+3 14 15 324363 69 88 913262
+4 9 9 70402 125 154 1827729
+5 4 4 19712 790 833 12120069
+6 9 22 1217267 512 542 9025021
+7 4 5 188443 839 891 14381874
+8 9 9 101191 161 192 2596089
+9 3 16 1236371 79 97 1529053
+10 6 8 287824 70 92 950488
+11 16 18 303500 76 111 2515972
+12 6 43 1368006 72 104 1050796
+13 16 20 572887 813 848 13315730
+14 20 47 2627051 177 225 3515075
+15 4 6 302740 116 131 1965585
+16 11 13 302481 410 461 6474229
+17 2 19 1826635 702 733 12269707
+18 15 30 1426996 56 75 869884
+19 38 42 726144 214 269 3819513
+20 3 17 1385169 231 349 5142597
+21 4 20 1658414 93 142 1660741
+22 5 20 1369432 123 245 2173055
+23 27 42 1632816 242 296 4781651
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 21
+us 163 209 5417251
+br 21 189 14752962
+ca 15 15 40642
+fr 10 10 135463
+gb 8 9 144116
+de 7 7 34496
+no 6 6 29568
+ch 4 4 19712
+eu 3 3 88274
+sk 3 3 4928
+lu 2 2 24351
+pl 2 2 38846
+nl 2 2 9856
+lt 1 1 4928
+es 1 1 162
+ro 1 1 162
+it 1 1 162
+ci 1 1 162
+se 1 1 162
+au 0 1 14644
+ao 0 13 1207092
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bot[\s_+:,\.\;\/\\-] 3150 53337948 20170731232536 0
+no_user_agent 1715 34403983 20170731231032 0
+crawl 1052 15977461 20170731231349 0
+robot 545 7785650 20170731231341 0
+bingpreview 451 2356738 20170730204205 0
+slurp 284 4215490 20170731152832 0
+googlebot 54 504580 20170731151703 0
+googlebot\-image 44 51127 20170731223500 0
+google[_+\s]web[_+\s]preview 13 1207092 20170724175120 0
+checker 7 80962 20170707141827 0
+php 5 39575 20170731182844 0
+curl 1 4928 20170701182452 0
+netcraft 1 4928 20170707114647 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+jpg 123 12782874 0 0
+gif 2 347318 0 0
+js 1 601 0 0
+png 102 6965419 0 0
+html 127 561792 0 0
+php 110 1009160 0 0
+css 1 2707 0 0
+Unknown 15 298068 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/P24.pdf 1 0 281651
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 17
+java 13 12
+win7 118 57
+Unknown 65 65
+linux 13 11
+win8.1 19 3
+linuxandroid 103 1
+win8 10 10
+ios_iphone 2 0
+winxp 28 27
+macosx9 5 5
+macosx5 3 3
+winlong 2 2
+win2003 9 8
+ios_ipad 1 0
+macosx 35 35
+j2me 1 0
+winnt 54 13
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 57
+chrome51.0.2704.79 4 0
+chrome41.0.2228.0 2 2
+opera12.16 1 0
+chrome10.0.648.204 5 5
+chrome34.0.1847.116 1 1
+firefox49.0 1 1
+chrome58.0.3029.96 1 1
+firefox15.0.1 2 2
+mozilla 31 31
+chrome54.0.2840.85 11 0
+firefox53.0 4 4
+chrome44.0.2403.89 1 1
+chrome41.0.2227.0 1 1
+safari4.0 1 1
+chrome39.0.2171.99 13 0
+chrome39.0.2171.71 1 1
+chrome50.0.2661.75 1 1
+chrome39.0.2171.95 2 2
+chrome36.0.1985.143 25 1
+chrome34.0.1847.131 1 1
+msie8.0 1 1
+firefox11.0 1 0
+iphone 1 0
+firefox41.0 4 4
+chrome37.0.2062.120 1 1
+chrome51.0.2704.106 13 0
+chrome29.0.1547.0 1 1
+msie7.0 8 7
+firefox3.5.2 3 3
+chrome30.0.1599.101 1 1
+chrome52.0.2743.116 6 6
+firefox1.0 20 20
+safari10.1 1 1
+chrome33.0.1750.152 3 3
+chrome41.0.2227.1 1 1
+msie11.0 6 4
+msie10.0 6 6
+chrome58.0.3029.110 32 31
+firefox34.0 4 4
+chrome59.0.3071.115 74 1
+chrome57.0.2987.132 13 0
+chrome59.0.3071.125 38 0
+firefox7.0.1 4 4
+chrome58.0.2988.0 1 0
+safari10.0.3 1 1
+msie9.0 25 25
+chrome45.0.2454.94 1 1
+chrome23.0.1271.97 1 1
+Unknown 56 54
+chrome58.0.3029.83 27 0
+chrome56.0.2924.87 2 2
+firefox29.0 2 2
+opera36.0.2130.32 1 1
+firefox40.0 8 8
+firefox3.6.3 1 1
+firefox48.0 3 1
+safari10.0 1 0
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 12
+Mozilla/5.0_(compatible;_Qwantify/2.4w;__https://www.qwant.com/)/2.4w 20170710093350
+HEADMasterSEO 20170701141844
+}__test|O:21:\ 20170712171454
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20170705145721
+FeedFetcher-Google;_(_http://www.google.com/feedfetcher.html) 20170729034334
+Gobyus 20170720192739
+python-requests/2.18.1 20170703162330
+Mozilla/5.0_(compatible;_ips-agent) 20170715131330
+Scrapy/1.3.0_(_http://scrapy.org) 20170708075318
+Mozilla/5.0_(compatible;_Dataprovider.com;) 20170711192901
+Python-urllib/2.7 20170722055045
+gobyus 20170720192739
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 12
+Python-urllib/2.7 20170722055045
+gobyus 20170720192739
+Java/1.8.0_20 20170706192907
+com.google.GoogleMobile/31.0.0_iPad/10.3.2_hw/iPad4_8 20170724175104
+Java/1.7.0_75 20170714104454
+FeedFetcher-Google;_(_http://www.google.com/feedfetcher.html) 20170729034334
+python-requests/2.18.1 20170703162330
+Gobyus 20170720192739
+Scrapy/1.3.0_(_http://scrapy.org) 20170708075318
+BUbiNG_(_http://law.di.unimi.it/BUbiNG.html) 20170705145721
+}__test|O:21:\ 20170712171454
+HEADMasterSEO 20170701141844
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 196 370
+From1 1 1
+From2 3 27
+From3 26 33
+From4 26 50
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 3
+google_image 0 1
+google 3 23
+bing 0 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 10
+http://rpgista.com.br 10 10
+http://www.fantasticmaps.com 9 9
+http://drosofila.blogspot.de 3 3
+http://avegamers.com/users/danramu 1 1
+http://www.webwiki.pt/www.mundosdemirr.com 1 1
+http://money-for-placing-articles.com 1 1
+http://pizza-imperia.com 1 1
+http://www.meninadabahia.com.br/2009/09/ 0 1
+http://docespensantes.blogspot.com 0 2
+http://forum.reapermini.com/index.php 0 4
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 21 2773
+404 618 0
+302 102 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 75
+/wp/ 2 -
+/administrator/index.php 1 -
+/templates/j2template/index.html 1 http://www.mundosdemirr.com/templates/j2template/index.html
+/apple-touch-icon.png 1 -
+/templates/jtemplate/index.html 1 http://www.mundosdemirr.com/templates/jtemplate/index.html
+/wiki/function.mysql-connect 2 -
+/wordpress/ 2 -
+/blog/rss.php 1 -
+/llx.php 1 -
+/robots.txt 476 -
+/passando_o_furacao_a_leitura_do_parecer/blog.php 1 -
+/key/ASWD56425CSA 1 http://ie.57883.net/alexa/ie/index.asp
+/www.lesfolies.net 5 -
+/xmlrpc.php 4 -
+/logo_img.php 1 http://www.mundosdemirr.com/logo_img.php
+/uma_ajuda_inesperada_ii_%E2%80%93_novas_surpresas 2 http://www.mundosdemirr.com/blog.php
+/o_furacao_sul_recebido_o_parecer_da_editora/rss.php 1 -
+/joomla/robots.txt 1 -
+/wp-admin/setup-config.php 1 -
+/new/wp-admin/setup-config.php 1 -
+/function.mysql-connect 1 -
+/blog/wordpress/wp-admin/setup-config.php 1 -
+/license.php 1 -
+/mais_um_furacao_passando_pelo_livro/rss.php 1 -
+/blog/administrator/index.php 1 -
+/user/register 1 -
+/templates/logo_img.php 1 http://www.mundosdemirr.com/templates/logo_img.php
+/www.overmundo.com.br 4 -
+/language/logo_img.php 1 http://www.mundosdemirr.com/language/logo_img.php
+/administrator/ 2 -
+//tmp/xax.php 1 -
+/a_paixao_por_um_personagem/script.js 1 -
+/administrator/logo_img.php 1 http://www.mundosdemirr.com/administrator/logo_img.php
+/admin/login 1 -
+/ventonorte/function.mysql-connect 1 -
+/' 1 -
+/kndnwnaonkw.html 1 -
+/www.omelete.com.br 3 -
+/wp-login.php 12 -
+/libraries/sfn.php 3 -
+/media/logo_img.php 1 http://www.mundosdemirr.com/media/logo_img.php
+/o_furacao_sul_recebido_o_parecer_da_editora/blog.php 1 -
+/joomla/administrator/index.php 1 -
+/depois_do_furacao_a_tormenta/blog.php 1 -
+/index.php 9 -
+/o_furacao_sul_recebido_o_parecer_da_editora/script.js 1 -
+/function.readfile 1 -
+/components/logo_img.php 1 http://www.mundosdemirr.com/components/logo_img.php
+/js/tools.js 1 -
+/depois_do_furacao_a_tormenta/script.js 1 -
+/uma_ajuda_inesperada_ii_%C2%96_novas_surpresas 22 -
+/tmp/logo_img.php 1 http://www.mundosdemirr.com/tmp/logo_img.php
+/wp-content/common.php 1 http://www.mundosdemirr.com/wp-content/common.php
+/wp-admin 1 http://mundosdemirr.com
+/modules/logo_img.php 1 http://www.mundosdemirr.com/modules/logo_img.php
+/blogs/wp-admin/setup-config.php 1 -
+/www.cranik.com.br 3 -
+/uma_ajuda_inesperada_ii_%96_novas_surpresas 1 -
+/mais_um_furacao_passando_pelo_livro/blog.php 1 -
+/a_paixao_por_um_personagem/blog.php 1 -
+/up.php 2 -
+/blog/blog.php 1 -
+/sitemap.xml 3 -
+/blog/robots.txt 3 -
+/a_paixao_por_um_personagem/rss.php 1 -
+/libraries/logo_img.php 1 http://www.mundosdemirr.com/libraries/logo_img.php
+/mais_um_furacao_passando_pelo_livro/script.js 1 -
+/blog/script.js 1 -
+//fckeditor/editor/filemanager/connectors/php/upload.php 1 -
+/beta/wp-admin/setup-config.php 1 -
+/blog/comentarios.php 1 -
+//tmp/vip.php 1 -
+/images/logo_img.php 1 http://www.mundosdemirr.com/images/logo_img.php
+/www.divulgalivros.org 3 -
+/depois_do_furacao_a_tormenta/rss.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 172
+64.62.252.163 12 12 75240 20170705145721
+167.114.65.240 11 11 20930 20170711192902
+69.58.178.57 11 11 94399 20170715131330
+187.84.141.166 10 11 144711 20170706192907
+208.113.161.21 9 9 0 20170729212616
+54.224.11.5 8 8 6062 20170714184430
+64.140.169.42 8 8 123881 20170722195915
+38.100.21.61 7 8 124648 20170708115015
+191.6.204.82 6 6 0 20170729004627
+23.81.27.114 6 6 93529 20170713080117
+54.221.206.141 6 6 83839 20170701032625
+134.119.213.82 6 6 29568 20170714181115
+163.172.4.153 5 5 24640 20170730205519
+54.243.143.219 4 4 62071 20170701040032
+177.12.161.107 4 4 0 20170710184521
+144.76.222.78 4 4 19712 20170727101359
+176.10.104.240 4 4 19712 20170724143628
+184.73.174.17 4 4 35644 20170701035143
+66.249.91.42 3 3 7716 20170726082756
+188.123.101.16 3 3 4928 20170720192739
+185.29.8.155 3 3 88274 20170716144737
+192.99.55.164 2 2 9856 20170725124416
+198.148.79.6 2 2 9856 20170722185237
+104.197.112.194 2 2 9856 20170714104454
+94.242.252.40 2 2 24351 20170718204725
+54.144.233.101 1 1 4928 20170720232609
+181.222.75.158 0 1 12509 
+79.137.74.227 1 1 162 20170714164634
+52.72.25.47 1 1 4928 20170731232516
+83.43.128.26 1 1 162 20170729110855
+177.194.236.7 0 13 1207092 
+191.222.167.96 0 13 1207092 
+212.129.49.244 1 1 65396 20170713013524
+52.232.113.158 1 1 4928 20170701141844
+66.240.236.119 1 1 4928 20170703114852
+66.249.85.27 0 7 729016 
+200.237.148.106 0 1 109458 
+34.227.93.26 1 1 4928 20170702182649
+191.250.34.229 0 1 148798 
+185.47.62.214 1 1 4928 20170722055045
+208.76.51.112 1 1 4928 20170722160608
+195.154.240.217 1 1 30643 20170717065202
+66.249.89.66 1 1 162 20170710034726
+104.148.71.69 1 1 0 20170708163253
+54.183.244.251 0 1 173659 
+192.187.109.42 1 1 4928 20170706054909
+34.207.155.183 1 1 4928 20170703232815
+191.37.222.244 0 1 148798 
+34.229.154.43 1 1 4928 20170725233211
+200.152.98.135 0 1 148798 
+217.64.127.164 1 1 162 20170708003331
+66.249.91.108 1 1 19423 20170712163816
+201.51.203.149 0 1 148798 
+187.28.155.22 0 1 148798 
+92.40.249.24 0 1 109458 
+189.80.27.36 1 25 136274 20170702120548
+104.218.141.98 1 1 4928 20170708075318
+209.95.168.87 1 1 4928 20170711191532
+34.230.81.60 1 1 4928 20170730232330
+191.177.187.212 0 1 148798 
+194.187.170.113 1 1 19423 20170710093350
+66.249.91.134 1 1 2573 20170703014733
+52.204.97.243 1 1 4928 20170715233942
+107.167.107.227 0 1 148798 
+66.240.192.138 1 1 4928 20170705065206
+66.249.92.93 1 1 19423 20170705141647
+66.249.91.46 1 1 19423 20170729034334
+146.185.144.64 1 1 4928 20170730234844
+54.157.45.215 1 1 4928 20170724232259
+104.155.143.151 1 1 4928 20170714112904
+66.249.85.26 0 12 1089742 
+66.249.85.28 0 6 525656 
+104.154.238.86 1 1 4928 20170706072205
+54.83.5.6 2 2 26430 20170701030353
+23.249.164.22 2 2 9856 20170702190351
+187.84.152.177 0 13 1207092 
+54.167.148.45 1 1 4928 20170722232549
+54.149.245.26 1 1 4928 20170718165853
+34.201.108.210 1 1 4928 20170718234805
+66.249.89.39 1 1 162 20170717111050
+191.33.159.230 0 1 148798 
+199.19.104.163 2 2 9856 20170727043332
+70.177.126.227 0 1 14644 
+216.19.216.88 1 1 4928 20170702054411
+131.72.71.131 0 13 1207092 
+34.228.43.213 1 1 4928 20170714234244
+195.154.217.116 2 2 9856 20170713062353
+105.172.14.73 0 13 1207092 
+108.3.167.111 0 1 14644 
+34.229.165.213 1 1 4928 20170707234050
+191.7.13.231 0 1 148798 
+66.102.8.42 0 1 69540 
+142.54.177.250 2 2 9856 20170727102131
+177.41.11.149 0 11 1006770 
+179.156.184.130 0 1 109458 
+52.70.73.90 1 1 4928 20170724091246
+216.19.208.26 1 1 4928 20170707041033
+189.106.179.104 0 13 1207092 
+170.150.83.169 0 13 1207092 
+201.6.143.248 0 1 148798 
+201.2.12.99 0 1 148798 
+177.154.222.177 0 12 1137322 
+74.208.150.238 1 1 4928 20170703003415
+189.11.101.30 0 1 148798 
+54.163.81.133 1 1 4928 20170713233952
+70.112.248.0 0 1 14644 
+186.208.117.102 0 1 148798 
+192.151.149.10 2 2 9856 20170710122405
+185.7.214.213 1 1 4928 20170703162330
+54.175.48.175 1 1 4928 20170726232602
+66.249.91.198 2 2 38846 20170727034237
+177.55.201.179 0 13 1207092 
+66.249.92.13 1 1 2572 20170717155428
+94.177.241.38 1 1 162 20170701085901
+34.207.72.167 1 1 4928 20170710233936
+138.197.88.79 1 1 4928 20170704160337
+54.234.222.146 0 1 173659 
+189.7.179.164 0 1 148798 
+54.210.74.215 1 1 4928 20170703030041
+194.187.170.119 1 1 19423 20170710011628
+52.3.240.115 1 1 4928 20170706234204
+54.89.104.0 1 1 4928 20170708234307
+152.238.41.86 0 1 37832 
+54.243.141.178 2 2 18844 20170701022811
+54.86.185.141 1 1 4928 20170702100725
+213.136.105.62 1 1 162 20170708063239
+54.144.43.227 1 1 4928 20170719233525
+212.86.219.134 1 1 4928 20170713112341
+187.103.249.196 0 13 1207092 
+66.249.91.103 2 2 324 20170724134439
+54.158.199.191 1 1 4928 20170706122713
+194.135.83.53 1 1 4928 20170720075715
+54.204.133.201 1 1 4928 20170717234141
+54.88.2.195 1 1 4928 20170729232350
+54.236.229.212 1 1 4928 20170711234102
+66.249.91.44 2 2 21995 20170719031026
+54.157.40.118 1 1 4928 20170712234035
+209.95.183.152 1 1 4928 20170722080131
+201.34.188.221 0 1 148798 
+204.12.255.138 1 1 4928 20170712171454
+54.149.123.56 1 1 4928 20170719045339
+66.249.89.44 2 2 21995 20170720005542
+179.180.12.222 0 1 148798 
+199.223.234.186 1 1 4928 20170705143500
+200.163.184.123 0 1 148798 
+37.187.78.81 2 2 9856 20170718113742
+54.173.123.15 1 1 4928 20170709234127
+149.202.93.127 1 1 4928 20170721062901
+62.210.178.138 2 2 9856 20170710042447
+201.76.121.34 0 1 148798 
+177.45.163.67 0 1 148798 
+94.142.242.84 1 1 4928 20170707000944
+5.9.94.207 1 1 4928 20170728143735
+177.201.224.14 0 1 148798 
+198.240.104.32 1 1 4928 20170727013357
+179.181.149.129 0 1 148798 
+66.249.91.194 1 1 2572 20170724185414
+34.227.20.217 1 1 4928 20170716234054
+189.12.133.206 0 1 37832 
+54.243.143.134 2 2 34353 20170701022814
+179.54.229.240 0 1 148798 
+189.126.231.53 0 1 148798 
+54.85.21.52 1 1 4928 20170705233304
+198.27.85.233 2 2 9856 20170731225631
+52.87.5.174 1 1 4928 20170704232823
+85.229.124.40 1 1 162 20170715114046
+66.249.92.92 1 1 19423 20170722004706
+14.202.47.135 0 1 14644 
+179.151.186.147 0 1 148798 
+191.248.56.123 0 1 148798 
+88.99.141.3 1 1 4928 20170711161145
+178.63.20.137 1 1 4928 20170729092347
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20170701 25 25 276127 10
+20170702 8 33 270534 7
+20170703 7 7 32141 7
+20170704 5 7 180798 5
+20170705 16 55 3804823 7
+20170706 15 20 628254 6
+20170707 5 19 1255943 5
+20170708 15 29 1351776 8
+20170709 1 28 2567910 1
+20170710 12 14 359193 10
+20170711 15 28 1242806 5
+20170712 6 8 228337 6
+20170713 13 13 183565 7
+20170714 18 32 1519922 9
+20170715 13 15 317827 3
+20170716 5 20 1597890 3
+20170717 6 8 340829 6
+20170718 6 23 1735381 5
+20170719 4 4 12428 4
+20170720 7 8 48851 5
+20170721 1 1 4928 1
+20170722 15 15 167944 8
+20170723 2 2 4928 2
+20170724 8 11 478696 5
+20170725 4 5 163582 3
+20170726 2 3 156298 2
+20170727 6 19 1251155 5
+20170728 1 15 1458092 1
+20170729 6 7 138899 6
+20170730 3 4 163582 3
+20170731 2 3 24500 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+30s-2mn 2
+30mn-1h 3
+0s-30s 152
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/ 126 556864 109 101
+/blog.php 54 979687 20 22
+/wiki/index.php 47 6324 20 23
+/rss.php 9 23149 8 8
+/passando_o_furacao_a_leitura_do_parecer 3 59757 0 0
+/depois_do_furacao_a_tormenta 3 56271 0 0
+/a_paixao_por_um_personagem 3 62946 0 1
+/mais_um_furacao_passando_pelo_livro 3 58464 0 0
+/o_furacao_sul_recebido_o_parecer_da_editora 3 60630 0 1
+// 1 4928 0 1
+END_SIDER

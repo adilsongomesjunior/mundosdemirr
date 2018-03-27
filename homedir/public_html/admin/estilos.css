@@ -1,0 +1,179 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Verdana;
+}
+BODY, TH, TD, INPUT, SELECT, TEXTAREA {
+	font-size: 10pt;
+}
+BODY {
+	margin: 5px;
+	background-color: #FFF;
+}
+CODE, PRE, CODE *, PRE * {
+	font-family: "Courier New";
+	font-size: 10pt;
+}
+TABLE {
+	border-bottom: 1px solid #000;
+}
+TH, TD {
+	padding: 0 2px;
+	white-space: nowrap;
+}
+TH {
+	border-bottom: 1px solid #000;
+}
+A {
+	color: #555;
+	text-decoration: none;
+}
+A:hover {
+	color: #222;
+	background-color: #E8E8E8;
+}
+HR {
+	color: #000;
+	border-color: #000;
+	height: 1px;
+}
+
+#exit {
+	float: right;
+}
+
+#head {
+	border-bottom: 1px solid #000;
+}
+
+#menu {
+	display: block;
+	border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+	border-left: 1px solid #000;
+}
+#menu LI {
+	display: block;
+	float: left;
+	border-right: 1px solid #000;
+}
+#menu LI A {
+	padding: 2px;
+}
+#menu BR {
+	clear: both;
+}
+
+#content {
+}
+
+#posts {
+}
+#posts LI {
+	display: inline;
+}
+#posts LI A {
+	display: block;
+	padding: 0 3px;
+}
+
+#foot {
+	clear: both;
+	background-color: #FFF;
+	border-top: 1px solid #000;
+	text-align: center;
+}
+
+.disabled {
+	background-color: #EEE;
+	color: #333;
+}
+
+.ano {
+}
+.mes {
+	margin-left: 18px;
+}
+.post {
+	margin: 0 36px;
+}
+
+.notPosted {
+	color: #C00;
+}
+.notPosted:hover {
+	color: #A00;
+}
+.notPosted .normal {
+	color: #555;
+}
+
+.comentarioAprovado {
+	color: #050;
+}
+.comentarioDesaprovado {
+	color: #C00;
+}
+.comentarioAprovado .fRight, .comentarioDesaprovado .fRight {
+	color: #000;
+}
+
+.fRight {
+	float: right;
+}
+
+.ok {
+	margin: 0 0 10px;
+	border: 3px solid #0D0;
+	padding: 5px;
+	background-color: #D8FFD8;
+	color: #0A0;
+	text-align: center;
+	font-weight: bold;
+}
+
+.erro {
+	margin: 0 0 10px;
+	border: 3px solid #D00;
+	padding: 5px;
+	background-color: #FFD8D8;
+	color: #A00;
+	text-align: center;
+	font-weight: bold;
+}
+
+.album {
+	margin: 0 auto;
+	border: 1px solid #000;
+	width: 450px;
+	height: 553px;
+	overflow: hidden;
+}
+.album TABLE,
+.album TR,
+.album TD {
+	border: 0;
+	padding: 0;
+}
+.album TR {
+	padding-right: 3px;
+}
+.album TD {
+	padding-left: 3px;
+}
+.album IMG {
+	border: 0;
+}
+.album .foto {
+	margin-top: 1px;
+	width: 450px;
+	height: 401px;
+	text-align: center;
+	overflow: hidden;
+}
+.album .fotos {
+	width: 450px;
+	height: 151px;
+	overflow: auto;
+	overflow-y: none;
+}

@@ -1,0 +1,180 @@
+BODY {
+	margin: 0;
+	background-color: #483521;
+	color: #FFF;
+	text-align: center;
+}
+BODY, TH, TD, INPUT, SELECT, TEXTAREA {
+	font-family: Georgia, Times, Times New Roman, sans-serif;
+	font-size: 9pt;
+}
+A {
+	color: #008;
+	text-decoration: none;
+}
+IMG {
+	border: 0;
+}
+H2 {
+	text-align: right;
+	margin: 0 20px;
+}
+H3 {
+	display: block;
+	width: auto;
+	height: 30px;
+	margin: 0;
+	padding: 3px 0 0 35px;
+	background: url("icon.gif") no-repeat left top;
+	font-size: 14pt;
+}
+H3 A {
+	color: #000;
+}
+#head H1, #head H2, #head HR {
+	display: none;
+}
+#main {
+	margin: 0 auto;
+	width: 775px;
+	text-align: left;
+	background: url("bg_paper_mid.jpg") repeat-y center #FFF;
+	color: #000;
+}
+TD {
+	background-color: transparent;
+	color: #000;
+	font-size: 9pt;
+}
+P {
+	margin: 0 25px 17px 10px;
+	text-align: justify;
+	text-indent: 15px;
+}
+SMALL {
+	font-weight: normal;
+}
+#head {
+	background: url("head.jpg") no-repeat;
+	width: 775px;
+	height: 250px;
+}
+#head #backHome {
+	position: absolute;
+	display: block;
+	width: 180px;
+	height: 245px;
+}
+#menu {
+	float: left;
+	width: 200px;
+	text-align: center;
+	overflow: hidden;
+}
+#menu HR {
+	display: none;
+}
+#menuHead {
+	display: block;
+	margin: 0 10px;
+	width: 180px;
+	height: 56px;
+	background: url("bg_menu_head.jpg") no-repeat;
+}
+#menuBody {
+	margin: 0 10px;
+	width: 180px;
+	margin-bottom: -7px;
+	background: url("bg_menu_body.jpg") repeat-y;
+}
+#menuBody A {
+	display: block;
+	margin: 0 16px 7px;
+	width: 147px;
+}
+#menuFoot {
+	display: block;
+	margin: 0 10px;
+	width: 180px;
+	height: 56px;
+	margin-bottom: 15px;
+	background: url("bg_menu_foot.jpg") no-repeat;
+}
+#arquivos A {
+	display: block;
+	margin-bottom: 0px;
+	width: auto;
+}
+#body {
+	float: right;
+	width: 560px;
+}
+#foot {
+	clear: both;
+	background: url("bg_paper_bot.jpg") no-repeat center bottom;
+	width: 775px;
+	height: 81px;
+	min-height: 81px;
+	text-align: center;
+	font-size: 8pt;
+}
+BODY>#main #foot{height:auto}
+.alert {
+	margin: 0 5px 5px;
+	text-align: justify;
+	color: #C00;
+	text-align: center;
+}
+.post {
+}
+.post BLOCKQUOTE {
+	margin: 0 30px 5px;
+	text-align: justify;
+}
+.comentario {
+	width: 495px;
+	height: auto;
+	overflow: hidden; /* auto; */
+	padding-right: 20px;
+}
+/* BODY>#main .comentario{width:475px} */
+#contador {
+	padding: 200px 0 0 330px;
+}
+
+/* ALBUM */
+.album {
+	margin: 0 auto;
+	border: 1px solid #000;
+	width: 450px;
+	height: 553px;
+	overflow: hidden;
+}
+.album TABLE,
+.album TR,
+.album TD {
+	border: 0;
+	padding: 0;
+}
+.album TR {
+	padding-right: 3px;
+}
+.album TD {
+	padding-left: 3px;
+}
+.album IMG {
+	border: 0;
+}
+.album .foto {
+	margin-top: 1px;
+	width: 450px;
+	height: 401px;
+	text-align: center;
+	overflow: hidden;
+}
+.album .fotos {
+	width: 450px;
+	height: 151px;
+	overflow: auto;
+	overflow-y: none;
+}

@@ -1,0 +1,1715 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201203 will be lost/reset.
+# Last config file used to build this data file was /home/mundosde/tmp/awstats/awstats.mundosdemirr.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2010                
+POS_TIME 2689                
+POS_VISITOR 23346               
+POS_DAY 47611               
+POS_DOMAIN 3642                
+POS_LOGIN 4488                
+POS_ROBOT 4643                
+POS_WORMS 5222                
+POS_EMAILSENDER 5353                
+POS_EMAILRECEIVER 5496                
+POS_SESSION 48520               
+POS_SIDER 48734               
+POS_FILETYPES 5631                
+POS_DOWNLOADS 5927                
+POS_OS 5997                
+POS_BROWSER 6243                
+POS_SCREENSIZE 7679                
+POS_UNKNOWNREFERER 7753                
+POS_UNKNOWNREFERERBROWSER 9700                
+POS_ORIGIN 10926               
+POS_SEREFERRALS 11078               
+POS_PAGEREFS 11268               
+POS_SEARCHWORDS 15380               
+POS_KEYWORDS 17017               
+POS_MISC 2353                
+POS_ERRORS 18264               
+POS_CLUSTER 4344                
+POS_SIDER_404 18404               
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20120401001310 230 51056 56063439112
+FirstTime 20120301000807
+LastTime 20120331235923
+LastUpdate 20120401091245 230 0 229 0 0
+TotalVisits 1007                
+TotalUnique 422                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 713                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 109 230 3085959 380 504 7289940
+1 96 260 2480791 367 550 8475776
+2 125 279 3080800 314 512 5562159
+3 710 743 10200582 509 674 9916997
+4 66 72 607498 279 497 5369183
+5 111 133 1659238 312 456 6667912
+6 103 105 1402624 298 539 4803603
+7 107 138 2226112 369 502 6557223
+8 201 258 3346111 399 540 6688350
+9 130 226 3704881 615 780 11380012
+10 80 150 2239652 307 444 5248829
+11 117 424 5637374 400 635 7056428
+12 97 221 3415576 566 723 9750961
+13 195 512 7040281 256 410 4966290
+14 218 390 6673624 364 505 6945614
+15 130 314 4834671 293 433 5599022
+16 227 358 6912122 316 477 6756469
+17 234 574 8333418 321 472 6474558
+18 162 283 5193074 265 398 4524405
+19 132 451 6152018 340 539 7837033
+20 286 393 7770618 267 388 5414363
+21 246 534 8282499 275 499 5623032
+22 167 345 5690551 330 529 6711014
+23 120 205 5396151 492 751 9168679
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 43
+us 2565 2963 31225159
+br 599 3381 62993074
+gb 253 254 3792809
+pl 110 110 2399712
+ua 91 97 1340643
+cn 90 90 1396431
+hu 65 65 968714
+tr 58 58 832532
+pt 51 238 3973930
+eu 44 46 728715
+nl 40 40 982477
+ru 38 42 777530
+cz 31 32 758388
+kr 27 27 645942
+de 23 23 391160
+jp 16 37 289397
+fr 14 15 378540
+ro 10 10 140633
+ca 7 7 48128
+ge 5 5 118144
+th 4 4 59568
+il 3 3 60820
+rs 3 3 45254
+co 3 4 65888
+eg 2 2 24680
+no 0 1 12509
+lv 1 1 24308
+sa 1 1 24308
+id 1 1 5235
+hk 2 2 17146
+ie 1 1 24308
+lt 1 1 24308
+ir 1 1 4952
+be 0 1 173659
+md 2 2 28538
+tw 1 1 18560
+ee 2 2 9856
+bg 1 1 4928
+sv 1 1 19696
+it 1 1 12204
+ar 1 22 187052
+ng 0 1 12509
+ve 0 1 44723
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+crawl 3303 32992599 20120320092818 0
+[\s_+:,\.\;\/\\-]bot 1845 60678482 20120331183854 0
+bot[\s_+:,\.\;\/\\-] 1394 24341166 20120331231304 0
+googlebot 1286 15060972 20120331235002 0
+no_user_agent 1134 22024967 20120331160002 0
+robot 307 5374464 20120331215712 0
+spider 262 1971644 20120331223907 0
+msnbot\-media 22 585654 20120331065214 0
+msnbot 15 137552 20120311072528 0
+discovery 7 110890 20120325165252 0
+ia_archiver 2 26541 20120331031533 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 12
+css 466 5326682 0 0
+png 116 688778 0 0
+pdf 4 1405762 0 0
+cgi 8 6152 0 0
+swf 1 84774 0 0
+php 3715 40107248 0 0
+html 195 942230 0 0
+xml 1 2895 0 0
+jpg 1890 24041886 0 0
+js 268 4754977 0 0
+Unknown 249 5023798 0 0
+gif 685 32701885 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/P24.pdf 26 1 7320433
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 19
+linuxmandr 78
+blackberry 2
+linuxandroid 72
+winlong 135
+winxp 2061
+win2000 20
+symbian 5
+win95 2
+win2003 36
+j2me 1
+wince 1
+winnt 38
+win98 6
+linuxubuntu 14
+linux 381
+win7 1938
+winme 17
+macosx 362
+Unknown 2430
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 90
+msie6.0 456
+firefox3.6.24 11
+firefox1.0.1 1
+firefox3.8 1
+firefox3.6 28
+firefox3.0.14 161
+firefox4.0 2
+msie4.01 7
+safari5.0.2 29
+msie8.0 227
+opera7.60 4
+msie7.0 555
+opera9.64 1
+firefox3.6.27 89
+firefox9.0.1 122
+chrome5.0.307.11 1
+safari5.1.1 33
+msie5.01 1
+firefox3.0 1
+firefox10.0.1 2
+opera9.01 1
+safari5.1.4 25
+firefox3.6.4 1
+firefox2.0.0.6 1
+firefox7.0.1 113
+firefox3.5.5 18
+mozilla 46
+netscape5.0 4
+chrome16.0.912.77 1
+mot\- 1
+chrome18.0.1003.1 1
+firefox3.6.3 1
+firefox8.0.1 23
+firefox10.0.2 519
+firefox3.1 2
+safari 19
+chrome17.0.963.78 297
+firefox3.0.7 1
+firefox4.0.1 25
+android 53
+firefox3.6.11 1
+firefox3.6.6 2
+chrome13.0.782.220 1
+firefox8.0 18
+opera9.00 10
+chrome17.0.963.79 535
+msie3.02 1
+opera9.80 3
+chrome15.0.874.121 1
+netscape4.76 1
+firefox6.0.2 5
+safari5.1.5 1
+chrome10.0.648.204 1
+firefox3.6.9 1
+chrome17.0.963.83 392
+msie5.0 2
+msie9.0 274
+Unknown 2380
+opera7.54 2
+firefox11.0 296
+chrome14.0.813.0 1
+chrome14.0.835.202 19
+firefox3.6.14 1
+blackberry 2
+firefox3.5.6 2
+chrome14.0.835.186 1
+chrome17.0.963.56 111
+firefox3.0.4 1
+opera8.00 1
+chrome12.0.742 326
+samsung 18
+chrome17.0.963.66 25
+chrome4.0.223.1 1
+firefox3.6.17 1
+firefox3.6.16 1
+chrome9.0.597 1
+msie5.5 9
+msie6.1 1
+safari2.0.1 5
+chrome12.0.742.122 18
+netscape4.79 2
+firefox2.0.0.11 78
+safari4.0 16
+chrome18.0.1025.54 1
+safari5.1.2 26
+firefox5.0.1 1
+safari5.1 116
+chrome19.0.1069.0 1
+firefox3.6.8 1
+firefox3.5.7 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 23
+Mozilla/5.0/heritrix/3.1.0_(compatible;;_http://vancouver.cs.washington.edu:8080/) 20120329230811
+Mozilla/5.0_(compatible;_ScoutJet;__http://www.scoutjet.com/) 20120312234222
+\ 20120301103932
+EC2LinkFinder 20120330033859
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~getfavicon27) 20120315094116
+NokiaC3-00/5.0_(04.60)_Profile/MIDP-2.1_Configuration/CLDC-1.1_Mozilla/5.0_AppleWebKit/420__(KHTML,_like_Gecko)_Safari/420_ 20120327135641
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_feed-id=16384406356260379720) 20120330094553
+Mozilla/5.0_(compatible)_Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html) 20120330155931
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20120309145426
+Mail.RU/2.0 20120323212018
+Mozilla/3.0_(compatible;_Indy_Library) 20120313215830
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=3220031795940385866) 20120331235923
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_feed-id=13945371954681063173) 20120330094553
+linkdex.com/v2.0 20120318022825
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=7616092906070353954) 20120331212950
+ichiro/3.0_(http://help.goo.ne.jp/help/article/1142) 20120311015227
+Mozilla/5.0_(en) 20120328230037
+Mozilla/5.0 20120317200333
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20120325011740
+Mozilla/5.0_(en-us)_AppleWebKit/534.14_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Chrome/9.0.597_Safari/534.14 20120307003039
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_3_subscribers;_feed-id=12496658594780066750) 20120331235435
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=17201985466308048698) 20120331233345
+mozilla/5.0_larbin2.6.3@unspecified.mail 20120305211243
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 14
+\ 20120301103932
+EC2LinkFinder 20120330033859
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=3220031795940385866) 20120331235923
+AppEngine-Google;_(_http://code.google.com/appengine;_appid:_s~getfavicon27) 20120315094116
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_feed-id=13945371954681063173) 20120330094553
+linkdex.com/v2.0 20120318022825
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=7616092906070353954) 20120331212950
+ichiro/3.0_(http://help.goo.ne.jp/help/article/1142) 20120311015227
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_feed-id=16384406356260379720) 20120330094553
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20120325011740
+facebookexternalhit/1.0_(_http://www.facebook.com/externalhit_uatext.php) 20120309145426
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_3_subscribers;_feed-id=12496658594780066750) 20120331235435
+Mail.RU/2.0 20120323212018
+Feedfetcher-Google;_(_http://www.google.com/feedfetcher.html;_1_subscribers;_feed-id=17201985466308048698) 20120331233345
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 2513 2553
+From1 864 880
+From2 137 187
+From3 35 237
+From4 620 3742
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+google 132 180
+search 3 3
+bing 1 1
+yandex 1 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 68
+http://www.topchoicesupplements.com 3 3
+http://www.sobrelivros.com.br/lista-de-escritores-brasileiros/ 3 3
+http://www.facebook.com/plugins/like.php 3 3
+http://www.orkut.com.br/Main 2 2
+http://universofantastico.wordpress.com 2 2
+http://www.facebook.com/l.php 1 1
+http://www.untitled.com.br/wp-admin/link-manager.php 1 1
+http://www.nhymxu.info 1 1
+http://grinmelken.com.br 1 1
+http://pornfreetube.ru 1 1
+http://www.velocidade.org/links/ 1 1
+http://www.gablotka.com 1 1
+http://10.112.52.71/MarkMonitor/FastFluxMultiplier/phishviewer.php 1 1
+http://www.orkut.com/Main#Community 1 1
+http://forex-for-business.ru 1 1
+http://universofantastico.wordpress.com/page/2/ 1 1
+http://saiadamasmorra.blogspot.com/2012/01/pelo-sangue-e-pela-fe-livro-de-claudio.html 1 1
+http://www.reversephonelookupsearch.com 1 1
+http://www.thegreateststuff.com 1 1
+http://dandidesenhos.blogspot.com 1 1
+http://findcheapairfarenow.blogspot.com/2012/03/cheap-flight-tickets.html 1 1
+http://universofantastico.wordpress.com/2010/04/05/%E2%80%9Cuma-cancao-de-gelo-e-fogo-de-george-r-r-martin/ 1 1
+http://universofantastico.wordpress.com/2010/05/12/batman-e-robin-porno/ 1 1
+http://universofantastico.wordpress.com/2012/02/24/literatura-fantastica-a-nova-cara-da-literatura-brasileira/ 1 1
+http://www.radarbit.com 1 1
+http://douglasbm.blogspot.com.br/2009/03/cavaleiro-templario.html 0 13
+http://rangertonto.blogspot.com.br/2010/07/quintessencia-do-guerreiro.html 0 7
+http://int.search-results.com/web 0 1
+http://rangertonto.blogspot.com.br/2010/07/miniaturas-de-papel.html 0 1
+http://docespensantes.blogspot.com 0 3
+http://douglasbm.blogspot.com 0 12
+http://rangertonto.blogspot.com 0 4
+http://docespensantes.blogspot.com/2007_04_01_archive.html 0 6
+http://rangertonto.blogspot.com/2010/03/um-download-das-dividades-do-d-ingles.html 0 1
+http://docespensantes.blogspot.com/2007/08/lendas-do-deserto.html 0 2
+http://douglasbm.blogspot.com.br/2007/05/tatoo.html 0 2
+http://docespensantes.blogspot.com/2005/08/morgana-fala.html 0 1
+http://rangertonto.blogspot.com/2010/07/quintessencia-do-guerreiro.html 0 12
+http://rangertonto.blogspot.fr/2010/07/revista-tormenta.html 0 1
+http://docespensantes.blogspot.com/2007/12/conto-en-espaol.html 0 7
+http://rangertonto.blogspot.com.br/2010/07/serie-de-download-revista-tormenta.html 0 3
+http://docespensantes.blogspot.com.br 0 1
+http://rangertonto.blogspot.com/2010/07/revista-tormenta.html 0 2
+http://docespensantes.blogspot.com.br/2007/08/orao-funerria-wiccana.html 0 1
+http://rangertonto.blogspot.com/2010/07/serie-de-download-revista-tormenta.html 0 2
+http://www.trollada.com.br/m/imagens_de/E4filmes./36 0 1
+http://rangertonto.blogspot.com.br/2010/03/livro-senhor-dos-aneis.html 0 4
+http://douglasbm.blogspot.com.br 0 1
+http://rangertonto.blogspot.com.br/2010/03/uma-tirinha-muito-boa.html 0 1
+http://douglasbm.blogspot.com/2007/05/tatoo.html 0 1
+http://docespensantes.blogspot.com.br/2007/08/lendas-do-deserto.html 0 5
+http://rangertonto.blogspot.com/2010/03/livro-senhor-dos-aneis.html 0 1
+http://docespensantes.blogspot.com.br/2007_04_01_archive.html 0 1
+http://douglasbm.blogspot.com/2009/03/cavaleiro-templario.html 0 21
+http://www.meninadabahia.com.br/2009_09_01_archive.html 0 34
+http://rangertonto.blogspot.com.br 0 8
+http://rangertonto.blogspot.com.br/search 0 1
+http://aquisemprende.com/modules/com_sobi2/ 0 4
+http://rangertonto.blogspot.com.br/2010/07/desde-2000-mapas-gratuitos-sao.html 0 3
+http://douglasbm.blogspot.com.br 0 9
+http://docespensantes.blogspot.com.br/2007/12/conto-en-espaol.html 0 6
+http://www.docespensantes.blogspot.com.br 0 2
+http://rangertonto.blogspot.com/2010/03/falando-em-tedio.html 0 1
+http://rangertonto.blogspot.com.br/2010/03/planilha-do-senhor-do-aneis.html 0 1
+http://universofantastico.wordpress.com/category/quadrinhos/page/6/ 1 1
+https://hunch.com/felipewillia410/profile/ 1 1
+http://docespensantes.blogspot.com/2007/09/quando-faltam-palavras.html 0 4
+http://www.inbookshelf.com/p/editora-parceiras.html 0 11
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 53
+baleia+unicornio 21
+baleias+unicornio 5
+como+criar+um+mundo+epico 5
+baleia+com+chifre 4
+navega%c3%a7%c3%a3o 3
+baleia+unic%c3%b3rnio 3
+baleias+atacando+pessoas 2
+lendas+sombrias 2
+livro+de+historia+geral 2
+avg 2
+carne+de+baleia 2
+mapa+mundi+com+escala 2
+agradecendo+todos+amigos 1
+mundos+de+mirr 1
+baleias+com+chifres 1
+uma+libra+na+sociedade+vitoriana 1
+claudio%2dvila 1
+mudas+de+fruta+p%c3%a3o 1
+como+escreve+a+todos+que+me+ajudaram+e+me+apoiaram 1
+t%c3%a3o+logo+tenha+novidades+ligar+voc%c3%aas. 1
+ra%c3%a7as+de+baleias 1
+fantasia+%c3%a9pica+livros 1
+z%c3%a9+roberto+pereira+critica+cassaro 1
+o+g%c3%aanio+do+crime+para+fazer+uma+leitura+agora 1
+mapa+mundi+imagina%c3%a7%c3%a3o 1
+como+agradecer+um+livro+ao+autor 1
+fotos+de+baleias+unicornio 1
+couro+de+baleia 1
+raca+de+baleia+de+chifres 1
+maiores+baleias 1
+mundosdemirr.com 1
+mundosdemirr 1
+baleias+que+possuem+chifre 1
+baleia+de+xifre 1
+primeira+escola+de+navega%c3%a7%c3%b5es+do+mundo 1
+ataque+baleias 1
+baleias+com+chifre 1
+elfos+e+an%c3%b5es+na+literatura 1
+enviei+originais+para+editora+e+recebi+retorno 1
+mundos+mirr 1
+historia+do+povo+da+messania+antiga 1
+agua+lim%c3%a3o+e+canela 1
+baleia+caracter%c3%adsticas 1
+refa%c3%a7am+o+filme+eragon 1
+desenho+de+mapa+de+pirata 1
+ataque+de+baleia+a+humanos 1
+fantastico+baleia+unicornio 1
+baleia+mais+violenta 1
+qual+o+nome+da+primeira+escola+de+navega%c3%87%c3%83o+do+mundo 1
+mirr 1
+simbolo+da+sabedoria 1
+o+g%c3%aanio+do+crime+para+fazer+uma+leitura 1
+ser+escritor+subconsciente 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 119
+baleia 37
+unicornio 28
+de 17
+baleias 14
+com 8
+mundo 7
+como 7
+um 6
+chifre 6
+do 5
+criar 5
+epico 5
+e 4
+mapa 4
+o 4
+uma 3
+da 3
+navega%c3%a7%c3%a3o 3
+para 3
+livro 3
+mundi 3
+unic%c3%b3rnio 3
+mirr 3
+historia 3
+primeira 2
+roberto 1
+sabedoria 1
+escritor 1
+livros 1
+atacando 2
+%c3%a9pica 1
+agua 1
+ra%c3%a7as 1
+navega%c3%87%c3%83o 1
+p%c3%a3o 1
+novidades 1
+literatura 1
+mais 1
+pirata 1
+fruta 1
+pereira 1
+todos 2
+lim%c3%a3o 1
+enviei 1
+povo 1
+messania 1
+possuem 1
+sociedade 1
+voc%c3%aas. 1
+raca 1
+lendas 2
+mundosdemirr.com 1
+ao 1
+mundosdemirr 1
+imagina%c3%a7%c3%a3o 1
+fantastico 1
+ligar 1
+agradecendo 1
+pessoas 2
+refa%c3%a7am 1
+escala 2
+xifre 1
+escola 2
+agradecer 1
+ser 1
+mundos 2
+autor 1
+avg 2
+apoiaram 1
+logo 1
+na 2
+a 2
+filme 1
+navega%c3%a7%c3%b5es 1
+claudio%2dvila 1
+recebi 1
+retorno 1
+violenta 1
+amigos 1
+caracter%c3%adsticas 1
+canela 1
+maiores 1
+escreve 1
+qual 1
+mudas 1
+me 2
+fazer 2
+g%c3%aanio 2
+humanos 1
+ajudaram 1
+eragon 1
+que 2
+tenha 1
+chifres 2
+vitoriana 1
+fantasia 1
+simbolo 1
+antiga 1
+fotos 1
+critica 1
+crime 2
+ataque 2
+agora 1
+t%c3%a3o 1
+carne 2
+z%c3%a9 1
+cassaro 1
+nome 1
+originais 1
+libra 1
+elfos 1
+editora 1
+leitura 2
+subconsciente 1
+sombrias 2
+desenho 1
+an%c3%b5es 1
+geral 2
+couro 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+302 832 23446
+206 28 1431743
+500 3 1024
+301 455 26708
+404 1639 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 118
+/sitemap.xml 6 -
+//zenphoto/zp-core/zp-extensions/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/robots.txt 1429 -
+/~fevrodes/SegurancaOnline/ 1 -
+//faq/admin/editor//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/htog.php 2 -
+/wiki/http:/www.my_eyes.blogger.com.br 4 -
+/=tt01649.w.avoturboworld.com/avoshop/electcultura/resenha/resenha.asp 1 -
+/http:/www.my_eyes.blogger.com.br 2 
+/www.divulgalivros.org 2 -
+/hlog.php 3 -
+/h 1 -
+/hgaqui/hodys.taobaomx.com/data=2009-12 1 -
+/www.universofantastico.com.br/ 1 -
+/blog/wp-trackback.php 1 -
+/klog.php 1 -
+/&dapa=20w6-pastapolo.com/r2006-11 1 -
+/a.blogspotr 1 -
+/pr=p:/ww84275 1 -
+/blog/blog.php 68 http://www.mundosdemirr.com/blog/blog.php
+/=ht09-8/liebo.taobaomx.com/09-6 1 -
+/.log.php 1 -
+/con.php 1 -
+/xmlrpc.php 2 -
+/www.omelete.com.br 1 
+/hoic/:/somnoblog.blogspot.com/ 1 -
+//includes/tinymce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/m/201php 1 -
+/blog/comentarios.php 1 http://www.mundosdemirr.com/blog/comentarios.php
+/0ht5-2:/nzmy.taobaomx.com/06-12 1 -
+/1h 1 -
+/log.php 1 -
+/x.top/www.livrariasobrado.com.br/ 1 -
+//main/inc/lib/fckeditor/editor//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/ntg/eras 1 -
+/6ttp:/a43.f657.ivos&data=2008-5 1 -
+/fckeditor/editor/images/anchor.gif 1 -
+/function.mysql-connect 2 -
+/obagmh 1 -
+/ulog.php 1 -
+/conten&/s8Ba21- 1 -
+/ttp:/www.mundosdemirr.com./content/s8BfNV/ 1 -
+/pp 1 -
+/.aw-wisdom.com/newsletter 1 -
+/www.lesfolies.net 3 -
+/MWcQO/P24.pdf 1 -
+/4/8ofutma 1 -
+/w.andtek.in/communications-solutiodata=2010-12 1 -
+//scripts/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/xbo.oh 1 -
+//FCKeditor/editor//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/boi.Fhp 1 -
+/administrator/ 1 -
+//includes/fckeditor/editor//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//shop/admin/includes/javascript/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/blo.pih 1 -
+//javascript/tinymce/jscripts/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/ttp:/www.grinmelken.com.br/ 1 -
+//gallery/zp-core/zp-extensions/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/uma_ajuda_inesperada_ii_%E2%80%93_novas_surpresas 1 -
+//admin/fckeditor/editor//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/designerusa2009ze/40248 1 -
+/www.overmundo.com.br 1 
+/&data=2a73.f657.com/ 1 -
+/nterv/ewww.grinmelken.com.br/ 1 -
+http://mundosdemirr.com/robots.txt 1 -
+//photo/zp-core/zp-extensions/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//fckeditor/editor//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/tag/2%82%BF%82%E1%82spot.com/ 1 -
+//js/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/FCKeditor/editor/images/anchor.gif 1 -
+/wt.v:/www.adotur/ 1 -
+/&tag/%83E%83 1 -
+/ntw:/www.livrariasaraiva.com.br/produto/produto.dll/detalhe 1 -
+/blank/Apparel/T-Shirtsblg.ph93p&g=arq&up_p=s&t=1&data=2006-9 1 -
+/home/create_products/Raglnlg.plrp_ 1 -
+//zen/zp-core/zp-extensions/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/nblgnt/hHj 1 -
+/9bog.t=h 1 -
+/http:/www.my_eyes.blogger.com.br/ 1 -
+//js/jscripts/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/uivos/validator.w3ta=2011-6 1 -
+/0.lo.apobpp=maquvoo/&data=2007-12 1 -
+/blog/wiki/ 1 http://www.mundosdemirr.com/blog/wiki/
+/mep:/docespensantes.blogspot.com/ 1 -
+/2tt1-8 1 -
+/.ttat:/waowm.scii/ano.com.br/produto/produto.dll/detalhe 1 -
+/fbo.hep 1 -
+/www.cranik.com.br 3 -
+//jscripts/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/blog/rss.php 1 http://www.mundosdemirr.com/blog/rss.php
+/blank/Apparel/T-Shirts_n.com/blog/ 1 -
+/0bohgpp 1 -
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/upload.php 1 -
+/t/tbpl:nk/oo.lrvruri+SbraeColcerms 1 -
+//admin/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+//ajaxfilemanager/jscripts/tiny_mce//plugins/ajaxfilemanager/jscripts/edit_area/edit_area.css 1 -
+/log.f657.com/rquivos&data=2007-8 1 -
+/this.href 2 -
+/readme.html 1 -
+/wp-trackback.php 1 -
+/qhuiop/ailaiyi.tao&adtma=c07/4 1 -
+/g=arquivos.f657.com/&data=2010-11 1 -
+/versofalidesic 1 -
+/wordpress/wp-trackback.php 1 -
+/boog.php 1 -
+/pgarquivos.d653.com/&data=2011-4 1 -
+/\\ 1 -
+/wp/wp-trackback.php 1 -
+/06- 1 -
+/index.php 5 -
+/bcntgpp 1 -
+/products-group-ar 1 -
+/htpvs/banshenqun.t&odtaa2m01.15o 1 -
+/blgptp 1 -
+/7ttp:/contos-de-aneras.blogspot.com/ 1 -
+/\\\" 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 713
+72.14.199.163 580 580 3359715 20120324141228
+72.44.33.220 479 495 6504398 20120330033859
+72.14.199.140 301 301 1749435 20120309172928
+72.14.199.57 204 204 1468338 20120331212950
+209.85.238.102 155 155 910268 20120328135628
+72.14.199.178 126 126 739760 20120331235923
+107.22.43.197 125 125 2355997 20120328031508
+46.21.144.176 101 101 2264045 20120322072001
+200.220.146.19 80 80 1190009 20120313212805
+213.174.148.250 80 80 1105864 20120314133813
+83.243.102.134 75 75 1070931 20120320200349
+67.202.37.202 65 65 1520462 20120323202645
+50.17.85.146 65 65 1520476 20120323161200
+23.20.124.15 65 65 1520475 20120312140335
+193.224.193.165 65 65 968714 20120315084501
+174.129.92.76 65 65 1520476 20120322161736
+217.116.197.123 58 58 832532 20120312170716
+109.150.35.198 56 56 852125 20120329063819
+192.12.81.6 43 43 634341 20120315223710
+209.85.238.24 40 40 230783 20120304125330
+178.239.58.143 33 33 907085 20120330235808
+91.207.6.142 29 29 697263 20120329052734
+86.149.107.96 26 26 394134 20120331231954
+109.73.68.19 26 26 429472 20120309183655
+66.226.77.39 22 22 228633 20120327145219
+201.78.174.131 0 1 173659 
+187.53.175.53 0 1 173659 
+186.236.127.81 5 18 328004 20120325120110
+69.58.178.56 12 12 165610 20120316031857
+93.114.47.254 1 1 4928 20120305185336
+109.230.217.46 2 2 54124 20120328054434
+74.125.156.92 0 3 3767 
+149.3.43.149 1 1 23711 20120306092556
+200.143.36.132 0 1 173659 
+198.134.135.83 1 1 769 20120307160000
+186.212.127.106 0 1 12509 
+211.76.242.33 1 1 18560 20120311132420
+177.41.147.231 0 1 173659 
+89.180.23.249 5 18 328003 20120311105200
+209.85.228.92 1 4 11973 20120304104740
+177.98.242.94 0 1 173659 
+201.0.14.111 0 1 173659 
+187.114.182.18 6 19 218360 20120307192701
+187.118.101.36 0 1 173659 
+177.40.15.213 6 18 298124 20120308172257
+83.229.216.116 14 14 308977 20120317085458
+74.125.126.88 0 2 10577 
+187.58.233.115 0 1 12509 
+189.55.93.97 5 18 297888 20120310205229
+209.85.228.86 0 4 53941 
+208.80.194.32 1 1 26468 20120315204430
+188.165.59.142 1 1 24308 20120329112541
+189.114.113.51 0 1 11309 
+64.233.162.82 0 3 7053 
+199.188.220.2 6 6 43200 20120313142606
+90.154.188.192 1 1 4928 20120327004020
+146.0.74.103 3 3 55680 20120310074635
+74.125.156.85 2 5 178225 20120327170742
+177.40.173.178 0 1 173659 
+64.125.148.233 1 1 769 20120311174108
+151.54.1.155 0 1 44723 
+118.103.35.50 1 1 24308 20120302031300
+74.125.64.87 1 4 6893 20120325143118
+74.125.158.83 0 3 6301 
+200.153.154.40 1 23 354780 20120316002032
+77.89.233.54 1 1 4230 20120305151951
+188.81.67.162 5 19 328109 20120306171541
+187.58.4.153 5 18 297887 20120318215340
+189.34.96.139 5 18 297888 20120318225209
+74.125.17.85 0 1 2118 
+201.95.129.195 0 1 173659 
+177.105.68.246 0 1 12509 
+200.158.113.236 0 1 173659 
+109.230.246.149 1 1 24308 20120324205627
+200.186.222.190 3 25 227938 20120312121520
+200.19.188.1 0 1 37832 
+189.12.44.23 0 1 173659 
+187.110.217.176 5 18 297888 20120313193745
+187.106.42.104 0 1 173659 
+67.198.133.162 1 1 24308 20120321163931
+69.171.242.246 1 1 4928 20120316183126
+187.113.192.248 8 80 615620 20120309171140
+201.9.213.41 0 1 173659 
+23.20.164.140 4 4 76925 20120317214344
+189.18.43.134 0 1 173659 
+201.13.83.17 0 1 25003 
+2.82.135.143 2 53 332672 20120316183554
+74.125.126.96 0 4 10286 
+60.47.200.45 1 1 4928 20120322162454
+187.75.117.218 5 20 288728 20120310203643
+119.147.75.140 1 1 4928 20120316163446
+201.0.253.138 0 1 12509 
+201.9.138.3 0 1 173659 
+187.21.144.109 3 55 524891 20120325012233
+69.171.228.246 0 2 5116 
+177.96.163.33 0 1 173659 
+200.195.150.81 2 23 208656 20120316170214
+119.97.222.34 1 1 18560 20120304012107
+118.22.253.225 1 1 769 20120309064127
+201.23.177.151 6 21 333627 20120320232038
+200.212.252.162 0 1 173659 
+91.197.48.90 1 1 24308 20120323082002
+101.66.59.10 1 1 4928 20120320222444
+64.125.148.224 1 1 1182 20120307150043
+141.0.9.46 0 1 12509 
+74.125.19.25 1 1 18560 20120311214512
+199.87.251.162 1 1 4928 20120312234222
+79.101.195.137 3 3 45254 20120308233012
+78.29.36.178 2 2 9682 20120325194743
+75.126.70.141 1 1 335 20120326154854
+209.85.228.87 1 3 43765 20120304104741
+74.125.126.87 0 5 28454 
+85.133.172.7 1 1 4952 20120316015438
+189.100.204.174 0 1 173659 
+189.46.177.14 0 1 25003 
+189.38.158.40 0 1 173659 
+186.240.56.38 0 1 173659 
+74.125.156.93 1 4 4512 20120327170742
+74.125.64.88 0 2 30330 
+74.125.156.94 2 6 97823 20120325143118
+76.164.222.35 1 1 24308 20120309170243
+203.249.26.248 1 1 12218 20120330191011
+209.118.181.20 1 1 24308 20120329055543
+74.125.156.86 0 3 10045 
+187.112.111.124 0 1 12509 
+187.45.60.60 1 1 12735 20120327094709
+200.93.182.18 1 1 5488 20120301135532
+41.43.87.170 1 1 9990 20120312105637
+207.46.12.210 5 11 91839 20120328000733
+177.81.137.135 6 18 298125 20120318221044
+74.125.17.84 0 4 47858 
+93.186.23.244 0 1 173659 
+189.32.216.11 1 23 197585 20120302012710
+177.18.45.199 0 1 173659 
+78.46.128.119 1 1 4928 20120329032936
+150.70.75.28 4 7 51609 20120324170218
+2.80.232.137 0 1 173659 
+188.227.175.177 6 6 39113 20120329082753
+187.75.183.235 0 1 12509 
+177.102.228.211 1 1 4928 20120330034340
+50.22.103.178 1 1 11315 20120323235759
+74.125.44.86 0 1 30223 
+74.125.92.90 1 1 18560 20120304200358
+189.78.12.120 0 1 173659 
+58.213.46.202 2 2 48616 20120321000543
+74.125.158.86 0 3 246502 
+188.227.177.5 1 1 18560 20120304231245
+201.3.252.190 5 10 194622 20120316135304
+177.25.88.228 0 1 173659 
+200.144.23.45 7 28 451694 20120319140213
+177.22.229.125 0 1 12509 
+189.30.108.131 0 1 12509 
+187.59.227.170 1 1 2572 20120312185850
+64.5.40.122 6 18 132581 20120302023657
+188.40.115.199 1 1 4928 20120324130408
+201.15.211.148 5 18 328003 20120321222022
+201.27.65.125 0 1 281651 
+201.34.234.231 0 1 173659 
+187.59.230.160 1 1 2572 20120319183922
+177.0.198.54 0 1 173659 
+187.20.95.19 0 1 173659 
+58.83.224.217 20 20 409984 20120303180340
+109.230.245.43 2 2 51370 20120328043359
+189.68.45.9 5 18 297888 20120321225231
+187.58.114.167 1 1 2572 20120305185144
+187.23.133.178 1 1 4928 20120325124946
+208.80.194.33 2 2 52936 20120317225217
+50.112.50.5 2 2 24308 20120331054722
+220.161.150.70 2 2 37120 20120318123421
+74.125.158.94 1 1 92 20120314174653
+124.115.5.11 7 7 34496 20120321001131
+74.125.64.90 0 6 72128 
+187.112.245.38 3 25 245330 20120323115808
+211.115.111.58 3 3 45238 20120317234150
+69.171.247.3 1 1 4928 20120325011740
+201.29.248.45 0 1 109458 
+187.14.41.134 0 1 173659 
+177.82.177.159 0 1 109458 
+200.98.132.98 1 1 4962 20120306013358
+89.181.26.219 1 1 12759 20120301061932
+177.63.21.101 1 22 187052 20120328150900
+74.125.64.85 0 5 67318 
+177.30.182.149 0 1 173659 
+189.58.217.116 0 1 173659 
+208.80.194.37 1 1 26468 20120311162435
+189.93.202.55 0 1 12509 
+69.160.54.47 6 6 90458 20120307225423
+189.51.32.163 0 1 173659 
+209.85.228.84 0 1 7054 
+70.36.120.116 1 1 4928 20120305043737
+74.125.126.86 1 2 7486 20120314130343
+212.235.107.106 1 1 24308 20120328170252
+64.233.162.80 0 1 2351 
+208.80.194.30 3 3 79404 20120328110952
+187.21.129.27 0 2 347318 
+200.171.151.205 3 3 38205 20120328084935
+218.6.16.226 2 2 42868 20120325031235
+109.62.202.115 0 1 9702 
+176.9.111.204 1 1 4928 20120321175725
+187.40.187.9 1 1 18560 20120313215830
+143.127.2.4 1 1 1182 20120307150223
+187.24.97.71 0 1 173659 
+187.2.209.149 8 48 679204 20120307204855
+86.154.131.77 3 3 45258 20120302010040
+187.79.89.215 0 1 173659 
+209.85.228.99 0 2 7032 
+46.105.151.66 1 1 27062 20120325124756
+128.208.6.75 3 3 14784 20120328162952
+201.243.1.104 0 1 44723 
+170.201.184.74 1 1 11289 20120323235728
+183.28.180.175 2 2 48616 20120317013435
+200.142.133.21 2 5 79312 20120320222013
+187.10.89.218 0 1 173659 
+98.139.241.245 1 1 4928 20120327163236
+110.34.171.2 3 3 49324 20120306200512
+60.36.83.194 0 15 66152 
+208.80.194.27 3 3 79404 20120330165208
+200.98.167.194 1 1 18560 20120303152333
+189.102.242.82 5 19 328110 20120329215330
+184.106.139.135 1 1 12218 20120329005353
+201.22.136.186 0 1 173659 
+201.58.228.57 0 1 173659 
+79.163.13.132 3 3 45196 20120317162714
+205.164.7.252 1 1 24308 20120326082949
+201.9.29.20 0 1 173659 
+177.61.97.49 0 1 173659 
+72.94.249.38 1 1 4928 20120305023939
+41.129.41.210 1 1 14690 20120316030359
+177.71.44.130 1 23 354780 20120328222001
+74.125.158.85 0 1 2385 
+199.19.249.196 1 1 4928 20120326200354
+109.167.128.226 1 1 4928 20120330094023
+74.125.44.92 1 4 230381 20120327170743
+109.167.205.8 1 1 24308 20120315194459
+150.70.172.108 6 6 43508 20120324165849
+201.22.210.179 1 1 12218 20120329005347
+86.153.163.136 15 15 226179 20120315225732
+209.85.228.93 1 4 8237 20120304104740
+201.11.104.233 3 55 361218 20120325191408
+201.57.146.136 1 1 24308 20120314083513
+189.50.202.10 0 1 173659 
+189.69.30.217 5 25 254402 20120317050457
+209.85.228.94 0 1 2426 
+189.111.4.51 2 53 342845 20120302131611
+177.98.20.137 0 1 173659 
+213.197.182.78 1 1 24308 20120314224956
+74.125.156.95 0 3 48133 
+62.75.229.90 1 1 4928 20120312221555
+187.54.111.243 0 1 173659 
+46.29.252.167 1 1 4928 20120312172126
+74.125.17.80 0 2 3630 
+66.199.151.206 1 1 24308 20120323235657
+187.52.101.251 0 1 173659 
+177.17.17.196 8 21 321563 20120326004002
+201.1.186.21 1 23 354780 20120307223627
+221.203.79.101 1 1 16263 20120323081954
+149.3.22.191 3 3 82229 20120322115012
+200.203.52.64 0 1 173659 
+187.55.193.22 0 1 173659 
+177.18.209.210 0 1 173659 
+46.17.98.212 4 4 97232 20120316064338
+120.29.157.253 1 1 5235 20120319121021
+187.33.206.175 0 1 173659 
+183.62.115.234 1 1 4928 20120316163608
+151.24.17.26 0 1 44723 
+177.126.232.163 10 86 957805 20120312130324
+74.125.17.94 0 1 2441 
+209.85.224.97 1 1 18560 20120330094553
+186.220.84.41 0 1 281651 
+74.125.64.86 1 6 47325 20120312223832
+74.125.64.95 0 3 43728 
+46.17.98.88 3 3 69930 20120314024250
+209.85.228.85 0 7 61219 
+187.4.56.205 4 78 775303 20120320164520
+74.125.158.91 1 5 212369 20120315094116
+74.125.156.84 1 2 14022 20120325143114
+27.159.220.70 2 2 48616 20120302070237
+58.119.6.196 1 1 24308 20120323081950
+189.84.189.123 1 23 197585 20120305120237
+178.163.89.63 2 2 48616 20120308083633
+189.74.46.19 6 20 311068 20120310134132
+178.137.167.112 1 1 24308 20120305123407
+187.21.80.24 0 1 173659 
+200.19.108.5 7 20 254098 20120312092335
+200.71.229.194 1 22 187052 20120316093119
+186.220.173.174 0 1 109458 
+69.171.230.251 1 1 19379 20120305042224
+187.54.145.82 0 1 173659 
+201.54.129.80 0 2 347318 
+74.125.64.81 0 5 4203 
+187.101.239.65 1 22 181383 20120319210558
+93.172.140.241 1 1 12204 20120319140509
+201.68.155.171 0 1 12509 
+186.228.52.132 8 80 645736 20120309171529
+201.22.163.40 5 18 328003 20120320170157
+72.14.199.182 7 7 50390 20120304104249
+74.208.8.48 9 23 208447 20120302025145
+128.208.6.246 1 1 4928 20120329230811
+212.86.219.134 1 1 4928 20120328215734
+208.80.194.28 1 1 26468 20120326122954
+222.60.8.82 1 1 24308 20120329125158
+176.34.78.101 1 1 24308 20120312052901
+189.104.62.213 0 1 12509 
+220.181.51.110 1 1 4928 20120307095022
+187.104.252.244 0 1 173659 
+81.193.247.90 9 51 348075 20120330084707
+69.28.58.43 4 4 19712 20120328070826
+64.71.193.238 3 7 227922 20120307144951
+209.85.238.71 1 1 7198 20120304014214
+202.66.134.4 1 1 12218 20120331071301
+201.47.18.205 5 17 186604 20120311034639
+176.195.68.84 1 1 4928 20120312140959
+200.169.41.121 1 22 185375 20120326155154
+189.121.206.225 0 1 37832 
+201.21.107.186 0 1 173659 
+189.114.57.210 0 1 173659 
+189.72.80.166 6 19 305775 20120316180943
+74.125.90.100 1 1 4928 20120304200358
+187.115.24.150 0 2 347318 
+177.105.66.42 5 18 297887 20120326084043
+189.103.31.220 0 1 173659 
+74.125.17.81 1 3 32345 20120304104742
+220.161.150.130 4 4 79988 20120314151052
+189.75.77.171 0 1 25003 
+189.47.240.54 0 1 173659 
+189.12.110.6 5 18 328003 20120326102436
+66.227.16.10 3 3 3133 20120307170637
+74.125.17.95 0 2 7651 
+27.159.219.119 1 1 24308 20120306013549
+177.9.111.52 1 23 354780 20120301074903
+79.132.228.170 0 1 173659 
+74.125.90.80 1 1 4928 20120315223435
+189.4.154.250 0 1 12509 
+74.125.126.99 0 1 2441 
+74.125.126.85 0 3 7500 
+187.66.196.133 0 1 12509 
+188.80.244.122 1 1 12747 20120301065700
+72.14.199.198 10 10 57696 20120328201429
+38.100.21.21 8 9 123108 20120313195708
+201.17.198.46 0 1 173659 
+201.51.68.137 2 23 204340 20120331160828
+187.40.50.223 0 1 173659 
+189.51.101.122 0 1 12509 
+64.125.148.226 1 1 769 20120314070723
+186.235.108.89 6 19 213748 20120329182948
+72.14.199.132 14 14 100767 20120328141713
+187.69.45.133 0 1 173659 
+66.220.153.249 0 1 2558 
+188.227.175.173 6 6 57254 20120325002856
+74.125.17.93 1 2 10449 20120304104741
+187.11.46.125 4 32 427355 20120326000555
+2.82.178.176 0 1 173659 
+201.14.55.92 5 19 259657 20120322203943
+85.138.34.170 0 1 173659 
+187.105.185.233 13 107 951895 20120310112905
+187.18.116.197 0 1 173659 
+74.125.158.95 0 2 5167 
+209.85.228.82 0 7 34100 
+74.125.17.86 0 2 5675 
+74.125.156.89 1 5 155206 20120312223832
+189.68.75.136 13 120 1355721 20120320021214
+109.95.73.91 1 1 24308 20120315132531
+189.81.170.84 0 1 173659 
+187.101.39.205 0 1 173659 
+124.115.1.8 1 1 4928 20120316221236
+74.125.158.80 0 1 2707 
+189.68.58.149 5 31 312944 20120314145240
+189.58.173.212 0 1 173659 
+108.166.64.191 1 1 4928 20120312154132
+74.125.158.89 0 2 5193 
+177.82.243.166 2 24 222028 20120310175605
+200.103.104.131 0 1 173659 
+187.41.138.81 6 25 447997 20120314153115
+209.85.228.96 1 8 170561 20120304104739
+200.201.3.50 0 1 173659 
+187.56.209.183 0 1 173659 
+186.223.237.120 0 1 37832 
+186.218.102.85 0 1 25003 
+187.115.181.152 0 1 173659 
+197.255.166.89 0 1 12509 
+189.70.0.163 7 33 411174 20120319100004
+74.125.64.82 1 4 174401 20120314174654
+189.105.42.196 6 80 797874 20120327220059
+74.125.156.81 0 5 37246 
+177.1.96.77 0 1 173659 
+186.241.12.162 0 1 173659 
+193.137.34.23 0 2 560809 
+189.127.190.155 0 1 173659 
+189.52.52.146 1 27 141468 20120313151705
+200.233.172.211 2 53 332672 20120329135259
+74.125.17.91 0 2 2735 
+80.243.191.66 1 1 17657 20120320145743
+117.26.107.22 1 1 18560 20120320155643
+177.38.112.30 1 22 184212 20120320095458
+189.121.34.227 0 1 173659 
+187.13.212.220 2 23 198205 20120321190659
+187.37.254.120 12 86 771009 20120311215609
+88.190.16.36 11 11 141307 20120329184844
+189.24.230.66 0 1 173659 
+91.232.96.2 2 2 58518 20120326090151
+200.139.178.168 0 1 12509 
+74.125.158.90 0 5 6749 
+74.125.126.102 0 3 7426 
+218.6.8.19 2 2 42868 20120314030037
+189.0.110.69 8 22 264822 20120308012820
+177.99.149.182 13 24 371497 20120331231310
+200.207.29.25 0 1 173659 
+189.105.29.53 0 1 12509 
+46.166.130.135 1 1 4928 20120323061608
+82.154.147.56 5 17 297780 20120302170845
+186.194.1.137 0 1 173659 
+74.125.64.94 0 3 17669 
+189.104.4.130 0 1 173659 
+74.125.17.92 1 2 3585 20120304104744
+187.11.182.155 8 24 397097 20120309152852
+199.87.253.104 1 1 7199 20120307133625
+90.17.90.71 0 1 173659 
+177.41.222.82 1 21 179832 20120310173453
+209.85.228.80 0 1 55319 
+183.62.115.227 1 1 4928 20120316211519
+74.222.10.100 1 1 4928 20120331155406
+201.8.148.138 5 18 299032 20120311171131
+177.40.25.104 0 1 173659 
+74.125.126.81 0 1 7054 
+189.7.122.34 5 18 328004 20120318230939
+46.148.101.186 3 3 45215 20120301054509
+201.13.192.79 0 1 25003 
+177.34.190.102 0 1 173659 
+187.64.102.177 0 1 173659 
+189.6.209.19 0 1 25003 
+201.49.77.11 6 18 298126 20120318224221
+209.85.224.85 1 1 4928 20120330094553
+64.233.162.86 0 1 2351 
+189.114.13.37 1 1 12747 20120324002515
+201.9.3.39 0 1 37832 
+74.125.126.92 0 1 7926 
+74.125.17.83 0 3 41863 
+190.53.51.39 1 1 19696 20120311083503
+189.79.134.216 0 1 173659 
+187.74.40.168 0 1 173659 
+220.181.51.108 1 1 18560 20120307095008
+189.12.139.248 0 1 25003 
+220.181.51.109 2 2 25759 20120307095014
+74.125.126.89 0 2 7289 
+74.125.19.29 1 1 18560 20120315223435
+69.171.229.247 0 1 2558 
+188.138.120.209 1 1 4928 20120319041259
+177.68.61.179 0 1 12509 
+189.13.39.75 0 1 173659 
+186.204.110.152 0 1 25003 
+187.9.140.218 0 1 173659 
+69.171.230.244 1 1 4928 20120309144124
+74.125.64.93 0 1 3105 
+117.135.129.73 1 1 4928 20120320040201
+201.45.188.18 4 4 93075 20120303180504
+187.10.217.41 0 1 173659 
+188.80.126.22 1 1 12735 20120330074017
+85.17.213.242 4 4 19712 20120321010207
+79.114.120.49 3 3 45235 20120303084834
+187.24.66.135 0 1 173659 
+177.103.125.122 0 1 37832 
+189.119.207.7 0 1 173659 
+173.208.214.58 1 1 24308 20120313160758
+69.63.190.244 0 1 2558 
+67.88.76.58 3 3 45197 20120308182116
+187.104.119.179 0 1 37832 
+189.46.167.45 0 1 173659 
+109.173.31.81 0 1 9702 
+186.240.29.21 0 1 173659 
+209.85.228.83 0 1 2296 
+189.72.207.171 0 1 173659 
+113.87.142.31 1 1 24308 20120322223522
+189.83.127.26 6 19 305774 20120318015719
+46.4.221.189 1 1 4928 20120314155128
+74.125.126.84 0 1 33303 
+95.92.70.81 1 1 12759 20120330095319
+177.19.235.181 5 18 233451 20120327135636
+201.78.162.14 5 18 297888 20120331154826
+74.125.156.90 2 3 14464 20120327170739
+60.34.154.72 0 1 12509 
+201.9.82.125 6 15 170484 20120320210442
+74.125.126.83 0 1 173659 
+189.91.192.225 0 1 173659 
+74.125.126.91 0 1 7112 
+46.189.182.130 5 18 299032 20120306113953
+74.125.17.82 1 3 38767 20120314213107
+114.80.93.71 1 1 4928 20120316182207
+210.105.3.131 1 1 19696 20120317085319
+188.230.90.181 2 2 48616 20120308101740
+199.187.122.98 2 2 9856 20120329181225
+72.14.199.202 18 18 129564 20120326182729
+189.46.41.88 6 49 538108 20120309144113
+189.70.165.109 0 1 173659 
+74.125.44.83 0 1 1633 
+124.115.1.7 1 1 4928 20120316184019
+91.224.247.81 1 1 24308 20120326191619
+64.233.162.85 0 4 9404 
+74.125.156.82 2 6 302338 20120328212611
+200.102.86.167 5 17 297779 20120327232442
+177.64.41.232 0 1 37832 
+186.212.161.133 0 1 173659 
+200.146.44.56 6 19 305777 20120302191711
+187.40.207.204 0 2 25018 
+209.85.228.88 0 6 13701 
+186.212.140.113 7 32 535393 20120318215325
+91.207.8.46 1 1 24308 20120323074614
+187.79.199.239 5 13 251980 20120307213256
+177.36.208.60 2 23 201907 20120314220904
+97.103.6.228 0 1 25003 
+201.35.253.162 0 1 109458 
+74.125.64.89 0 3 6964 
+79.163.61.56 3 3 45255 20120316125214
+201.75.162.223 0 1 173659 
+177.82.201.57 5 18 297887 20120318215226
+189.29.249.71 6 18 240391 20120322202805
+79.114.117.19 6 6 90470 20120302201035
+109.73.78.98 12 12 77380 20120327151248
+189.93.170.229 0 1 173659 
+186.225.32.66 0 1 173659 
+85.25.95.90 6 6 92666 20120323022938
+189.69.25.66 5 25 254402 20120306011302
+74.125.158.88 0 4 7029 
+74.125.156.83 1 3 24444 20120310114952
+79.163.15.65 3 3 45216 20120318132727
+23.19.26.105 1 1 24308 20120301171458
+209.85.228.81 0 6 16189 
+187.20.185.250 0 1 12509 
+74.125.158.82 0 2 6673 
+201.52.50.37 0 1 109458 
+74.125.64.84 1 5 324121 20120316195654
+85.241.251.76 5 17 297781 20120316002157
+187.25.136.118 1 21 179832 20120331152509
+201.13.169.87 6 48 367690 20120325193916
+201.8.9.26 0 1 173659 
+74.125.158.93 0 1 27892 
+14.157.187.18 1 1 24308 20120303055425
+187.113.59.241 1 1 12759 20120301110610
+217.69.133.28 1 1 4928 20120323212018
+201.19.97.171 0 1 173659 
+60.196.146.4 22 22 568790 20120322062250
+200.159.10.57 0 1 173659 
+189.46.236.11 1 22 194886 20120316195708
+201.16.233.226 0 1 173659 
+79.170.50.42 1 1 24308 20120306234000
+74.125.19.19 1 1 4928 20120311214511
+74.125.126.95 0 1 4259 
+190.90.2.226 1 1 7605 20120316015548
+72.64.146.136 1 1 27062 20120303070714
+187.13.42.183 0 1 173659 
+187.65.75.47 0 1 173659 
+64.125.148.238 1 1 769 20120307161439
+187.112.97.192 1 31 152124 20120312014622
+177.117.49.77 0 1 173659 
+177.118.229.21 0 1 25003 
+200.255.125.225 9 23 370461 20120324165648
+200.236.38.4 0 1 37832 
+194.65.231.6 5 18 299033 20120306115556
+46.251.237.34 1 1 24308 20120324110727
+92.39.50.49 1 1 24308 20120309132408
+209.85.228.90 0 1 2517 
+74.125.17.87 1 4 2512 20120304104743
+64.125.148.240 1 1 769 20120310195402
+135.245.168.35 1 16 71080 20120329230158
+46.17.96.43 2 2 48616 20120316194605
+201.43.68.231 1 22 180853 20120320004407
+201.50.212.17 0 1 173659 
+93.172.167.42 1 1 24308 20120329170940
+177.41.233.53 5 18 328004 20120316132309
+74.125.156.91 1 5 142791 20120310001124
+218.213.30.64 1 1 4928 20120311015227
+187.40.132.210 0 1 173659 
+173.212.197.160 1 1 4928 20120308152228
+201.2.8.77 0 2 25018 
+201.75.77.254 0 1 44723 
+187.95.18.69 1 1 24308 20120306004856
+187.114.52.32 6 49 511233 20120319193312
+187.107.203.212 9 70 832470 20120304144015
+74.125.17.88 1 5 59348 20120304104742
+189.82.26.2 0 1 173659 
+201.81.244.20 1 1 12735 20120324084936
+201.29.84.251 5 18 328002 20120320184719
+74.125.126.94 0 1 2781 
+193.41.187.179 5 11 88931 20120302075815
+189.41.175.32 5 10 194622 20120320143219
+201.10.84.215 0 1 12509 
+189.46.48.59 0 1 173659 
+186.214.165.203 0 1 12509 
+64.233.162.87 0 3 7053 
+187.76.34.126 0 1 12509 
+170.224.163.127 1 1 18560 20120316093433
+189.82.37.227 0 1 173659 
+208.80.194.34 2 2 52936 20120319150756
+74.125.44.87 0 1 2460 
+74.125.64.91 2 5 36575 20120312223832
+189.13.10.5 0 1 173659 
+209.85.228.98 1 7 25247 20120308132830
+189.34.245.133 0 1 173659 
+189.120.8.153 0 2 347318 
+149.3.87.224 1 1 12204 20120316055442
+78.6.111.112 1 1 12204 20120303043153
+74.125.156.80 0 1 5289 
+64.233.162.81 0 1 2351 
+50.18.18.76 1 1 4928 20120309000708
+177.99.106.45 1 1 4928 20120317200333
+190.85.70.98 1 1 8072 20120305043638
+189.59.46.13 5 18 328002 20120307192331
+188.227.176.154 1 1 24308 20120325062801
+86.182.122.213 18 18 271355 20120323170225
+50.17.164.160 3 3 58410 20120318022825
+209.85.228.89 0 2 12401 
+189.115.15.187 0 1 173659 
+189.18.101.64 0 1 173659 
+74.125.158.81 0 2 32341 
+186.214.31.94 5 18 297887 20120331001604
+119.147.6.60 1 1 4928 20120316151910
+189.67.173.250 0 1 173659 
+64.27.5.162 14 29 200402 20120302024750
+95.92.72.136 1 1 12771 20120301103034
+201.50.165.128 0 1 173659 
+186.195.148.45 0 1 37832 
+187.14.60.168 0 1 173659 
+189.81.32.128 5 18 297888 20120324191659
+194.226.240.5 1 1 24308 20120330224701
+74.125.64.80 2 4 12507 20120325143118
+69.28.58.42 6 6 29568 20120328120311
+189.90.184.117 0 1 173659 
+79.104.17.110 0 2 25018 
+8.28.16.254 1 1 21613 20120323150650
+200.232.163.124 1 31 152124 20120330112831
+177.97.157.239 0 1 12509 
+189.58.110.16 0 1 173659 
+66.226.72.148 16 16 202388 20120324164116
+94.100.189.220 1 1 4928 20120322235216
+64.125.148.236 1 1 769 20120307220154
+209.85.228.91 0 4 45177 
+64.233.162.84 0 1 2351 
+38.100.21.37 1 1 4928 20120323032101
+187.69.118.93 0 1 173659 
+27.159.199.69 1 1 24308 20120304194615
+187.41.121.129 0 1 12509 
+150.70.172.202 1 1 4928 20120329083526
+74.125.158.84 0 1 1633 
+189.58.21.77 0 1 173659 
+64.251.21.61 1 1 12218 20120330191009
+74.125.64.83 0 4 36855 
+150.70.64.197 2 4 80686 20120324183822
+114.80.93.73 8 8 39424 20120321003504
+89.180.150.99 5 18 297888 20120310185032
+86.141.30.154 6 6 90496 20120311220242
+107.20.36.241 4 4 53742 20120317214203
+189.55.37.75 0 1 173659 
+177.146.4.60 0 1 173659 
+74.125.158.87 0 2 661 
+188.143.232.123 1 1 12204 20120320220910
+79.119.150.49 1 1 4928 20120301194022
+189.26.121.78 0 1 173659 
+187.58.70.121 0 1 173659 
+201.37.84.181 0 2 75664 
+173.212.140.31 1 1 4928 20120329204948
+74.125.17.89 1 4 184567 20120304104740
+31.214.133.14 1 1 24308 20120309214418
+187.66.113.184 6 19 305780 20120312175726
+58.137.98.211 1 1 10244 20120316184938
+186.212.121.147 1 1 2572 20120326070327
+219.146.110.93 6 6 214527 20120303180523
+220.181.51.107 1 1 7198 20120307095009
+187.113.206.207 1 22 184519 20120318191524
+74.125.126.93 0 2 5663 
+189.58.1.164 0 1 173659 
+187.113.25.130 0 1 173659 
+74.125.44.95 0 1 2733 
+201.88.243.214 0 1 173659 
+200.199.139.226 1 21 179832 20120330095402
+201.35.129.240 0 1 173659 
+74.125.17.90 0 5 65687 
+177.83.5.32 0 1 37832 
+74.125.156.88 3 9 98202 20120325143118
+77.48.148.243 0 1 12509 
+69.171.234.1 1 2 21937 20120312212358
+74.125.64.92 1 8 40792 20120316195653
+201.75.203.7 0 1 173659 
+195.138.82.135 2 2 48616 20120328075732
+74.125.156.87 0 3 4867 
+187.40.14.231 2 54 511627 20120301115749
+66.220.149.245 1 1 4928 20120308132834
+124.115.4.215 1 1 4928 20120317094709
+96.9.159.185 1 1 4928 20120311192406
+74.125.126.101 0 1 2567 
+186.114.63.241 0 1 44723 
+186.207.195.9 6 18 305673 20120319171813
+186.212.195.105 0 1 173659 
+64.233.162.83 0 4 9404 
+200.163.4.109 0 1 173659 
+209.85.228.97 1 7 21332 20120313154603
+69.171.229.245 0 1 2558 
+177.115.22.254 0 1 12509 
+189.104.239.159 0 1 173659 
+50.112.23.132 1 1 4928 20120309015730
+189.75.28.79 6 48 338029 20120321114437
+187.105.137.207 7 27 482518 20120307114902
+24.193.119.134 1 2 117349 20120330024811
+1.202.218.8 9 9 44352 20120301103932
+189.123.109.105 0 1 173659 
+46.29.252.115 1 1 4928 20120328230037
+201.50.247.32 0 1 173659 
+79.132.118.100 1 1 24308 20120322114545
+186.222.250.195 1 31 152124 20120314130254
+50.112.109.193 1 1 4928 20120323230519
+177.17.226.157 0 1 173659 
+200.239.65.116 0 1 25003 
+109.230.251.72 1 1 27062 20120309035946
+213.251.169.115 1 1 12204 20120303002755
+74.82.175.212 1 1 4928 20120305211243
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20120301 73 155 2305845 34
+20120302 118 268 2811963 31
+20120303 87 89 1554881 28
+20120304 73 169 3267494 33
+20120305 59 91 2382388 26
+20120306 74 140 2472255 27
+20120307 106 254 4132070 44
+20120308 75 140 2146985 26
+20120309 125 337 3532543 32
+20120310 91 302 4379363 27
+20120311 87 204 2415997 26
+20120312 212 390 5802985 35
+20120313 158 237 3373191 31
+20120314 192 360 4869471 36
+20120315 178 187 3446002 27
+20120316 139 364 5413200 45
+20120317 94 124 2242968 33
+20120318 102 246 4552568 29
+20120319 88 217 2966696 32
+20120320 181 472 6365940 34
+20120321 75 173 2442311 25
+20120322 183 219 4876525 27
+20120323 211 259 5500396 35
+20120324 87 123 1843029 28
+20120325 100 277 3180215 40
+20120326 87 183 3392897 31
+20120327 116 241 3851413 40
+20120328 212 290 4953901 42
+20120329 135 237 3649303 36
+20120330 569 684 8833464 38
+20120331 82 166 2407966 29
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 151
+5mn-15mn 11
+15mn-30mn 10
+2mn-5mn 19
+30s-2mn 32
+0s-30s 750
+30mn-1h 34
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 167
+/wiki/index.php 1511 12909439 440 453
+/blog.php 1009 23657114 149 176
+/rss.php 981 2521436 209 205
+/comentarios.php 197 783101 11 8
+/ 186 916608 149 105
+/depois_do_furacao_a_tormenta 15 266430 0 3
+/o_toque_de_midas 15 397020 13 14
+/o_furacao_sul_recebido_o_parecer_da_editora 12 230580 1 1
+/mais_um_furacao_passando_pelo_livro 12 214763 0 1
+/passando_o_furacao_a_leitura_do_parecer 10 189240 0 0
+/a_paixao_por_um_personagem 10 199870 0 1
+/cgi-sys/suspendedpage.cgi 8 6152 8 8
+/mundos_epicos 7 196756 2 1
+http://www.mundosdemirr.com/blog.php 7 230790 2 2
+/wiki/opensearch_desc.php 6 2070 0 5
+/~fevrodes/Seguranca_Online/ 4 4728 4 2
+/booktrailers 4 78784 2 2
+/a_arte_da_critica 3 59298 1 2
+/o_motim_do_bounty 3 67545 2 2
+/o_genio_dos_livros 3 59019 1 1
+/o_valor_do_dinheiro 3 65874 2 2
+/as_armas_da_guerra 3 58137 2 2
+/a_historia_por_tras_da_historia 2 37324 1 0
+/a_exaltacao_das_orelhas 2 39990 0 0
+/ventonorte/index.php 2 670 2 1
+/o_segundo_filho 1 18735 0 0
+/uma_semana_verdadeiramente_especial 1 22257 0 0
+/uma_questao_de_nome 1 20674 0 0
+/o_bom_pirata 1 20513 0 0
+/inspiracoes_do_leste_camaradas 1 18494 0 0
+/os_tigres_de_mompracem 1 17959 0 0
+/o_maior_dos_presentes 1 21974 0 0
+/piratas_do_caribe_3_no_fim_do_mundo 1 17328 0 0
+/a_solucao_final 1 19146 0 0
+/surfando_na_onda_dos_zumbis 1 18404 0 0
+/o_segredo_dos_picaretas 1 21729 0 0
+/a_indiferenca_da_midia 1 20297 0 0
+/do_twitter_ao_facebook 1 18190 0 0
+/uma_conversa_por_email 1 27570 0 0
+/salitre_carvao_e_enxofre 1 22034 0 0
+/flertando_com_a_historia 1 16721 0 0
+/profissionalizando 1 16892 0 0
+/uma_questao_de_simplicidade 1 16922 0 0
+/repensando_um_personagem 1 17465 0 0
+/relevancia 1 18436 0 0
+/um_ensaio_sobre_lideranca 1 21303 0 0
+/maldita_padronizacao 1 18350 0 0
+/julgando_um_livro_pela_capa 1 20186 0 0
+/la_e_de_volta_outra_vez 1 17651 0 0
+/resolucoes_para_2011 1 17974 0 0
+/simbologias_maconicas 1 18255 0 0
+/nas_ondas_do_radio 2 33458 0 0
+/o_anno_domini 1 22113 0 0
+/fechando_o_segundo_ato 1 18540 0 0
+/nasce_a_mirr_enciclopedia 1 19697 0 0
+/a_pagina_em_branco 1 20621 0 0
+/o_ritual_para_escrever 1 16871 0 0
+/skoob 1 18652 0 0
+/o_horror_em_red_hook 1 18901 0 0
+/escrevendo_com_musica 1 17243 0 1
+/um_pais_tropical 1 18704 0 0
+/fantasia_americana 1 16796 0 0
+/a_confraria_da_costa 1 18170 0 0
+/memorias_de_infancia 1 19787 0 0
+/uma_plateia_para_me_ouvir 1 20552 0 0
+/o_nascimento_de_um_personagem_ii 1 24275 0 0
+/um_livro_de_cada_vez 1 24342 0 0
+/a_importancia_dos_nomes 1 20347 0 0
+/a_mao_que_escreve 1 18382 0 0
+/~fevrodes/Seguranca_Online/tela1.xml 1 2895 0 1
+/assim_na_terra_como_no_ceu 1 20827 0 0
+/vida_nova_livro_novo 1 16697 0 0
+/usando_pavo 1 18327 0 0
+/um_mundo_compartilhado 2 43422 0 1
+/direito_de_resposta 1 25969 0 0
+/o_encontro_com_um_editor 1 22244 0 0
+/o_alto_custo_da_fantasia_nacional 1 18225 0 0
+/conceitos_terrenos 1 22788 0 0
+/autor_precipitado 1 18103 0 0
+/mais_uma_nova_proposta 2 32138 0 0
+/o_terceiro_livro 2 40502 0 0
+/um_bom_conselho 1 19915 0 0
+/o_preco_da_liberdade 1 19620 0 0
+/tentar_um_recomeco 1 24508 0 0
+/leitura_critica 1 17761 0 0
+/apagar_e_reescrever 1 19671 0 0
+/84_dias_de_silencio 2 37830 0 0
+/pedigree_para_ser_um_escritor 1 21132 0 0
+/grandes_expectativas 1 20372 0 0
+/~fevrodes/Seguranca_Online/tela1.swf 1 84774 0 0
+/a_magia_do_convencimento 1 20840 0 0
+/o_anuncio_oficial 1 17954 0 0
+/preocupacoes_com_a_leitura_critica 1 18233 0 0
+/uma_divida_a_ser_paga 1 17825 0 0
+/de_volta_ao_mestre 1 21582 0 0
+/o_vendedor_de_sonhos 1 20789 0 0
+/dividindo_a_historia 1 19176 0 0
+/a_ponte_para_therabitia 1 22369 0 0
+/o_bonde_da_alegria 1 20910 0 0
+/a_missao_do_escritor 1 20027 0 0
+/o_pai_rico_que_mexeu_no_queijo_do_monge_executivo_pobre 1 18292 1 1
+/admin/index.php 2 2628 0 0
+/direito_de_leitura 1 29336 0 0
+/anoes_e_elfos_esses_incompreendidos 2 43302 1 1
+/antologias 1 20208 0 0
+/o_pequeno_principe 1 18725 0 0
+/sobre_etnias_e_racas 2 37644 1 1
+/primeiras_respostas 1 17378 0 0
+/prefacio 1 18827 0 0
+/a_importancia_da_pesquisa 1 19760 0 0
+/reflexoes_do_fim_de_ano 1 19381 0 0
+/orcs_esses_incompreendidos 1 24273 0 0
+/rumo_a_2010 1 17972 0 0
+/cartas_a_um_jovem_escritor 1 16857 0 0
+/sobre_historias_de_fadas 1 22307 0 0
+/a_todo_vapor 1 19316 0 0
+/a_farsa 1 18980 0 0
+/o_naif 2 60064 0 1
+/eragon_o_dragao_de_um_milhao_de_dolares 2 47584 1 0
+/nos_passos_do_mestre_ou_nao 1 18267 0 0
+/saltando_no_tempo 1 19797 0 0
+/papo_fantastica 1 18202 0 0
+/o_aprendiz 1 21751 0 0
+/uma_semana_de_expectativa 1 17556 0 0
+/retendo_informacoes 1 16688 0 0
+/sobre_originais_e_capas 1 18916 0 0
+/entre_mestres_e_alunos 1 19822 0 0
+/to_kindle_or_not_to_kindle 1 19653 0 0
+/o_overmundo 1 22645 0 0
+/silencio 1 16247 0 0
+http://MUNDOSDEMIRR.COM/ 2 9856 0 2
+/buscando_inspiracao_em_novos_mares 1 16278 0 0
+/aquela_desagradavel_sensacao 1 17871 0 0
+/um_pedido_de_desculpas 1 22015 0 0
+/novos_paradigmas 1 16231 0 0
+/enfunem_as_velas 1 17508 0 0
+/brincando_de_deus 1 18253 0 0
+/%7Efevrodes/Seguranca_Online/ 1 1182 0 1
+/o_verdadeiro_diario_de_bordo 1 22107 0 0
+/tecnoagnosia 1 17921 0 0
+/escrevendo_em_outros_mundos 1 19328 0 0
+/um_certo_temor 1 17212 0 0
+/o_ruidoso_soar_das_prensas 1 20850 0 0
+/o_contexto_historico 1 19191 0 0
+/tsunami_literaria 1 23146 0 0
+/um_ensaio_sobre_a_realidade 1 21684 0 0
+/viajando_em_outro_mundo 1 16483 0 0
+/um_outro_lado_de_meu_trabalho 1 18327 0 0
+/midias_alternativas 1 19466 0 0
+/uma_grande_oportunidade 1 17846 0 0
+http://www.MUNDOSDEMIRR.COM/ 2 9856 2 0
+/arrogancia_autoral 1 17998 0 0
+/sem_ideias 1 18477 0 0
+/a_vida_e_uma_ficcao 1 18673 0 0
+/o_ponto_final 1 18613 0 0
+/dieta_literaria 1 18852 0 0
+/o_segundo_livro 1 18571 0 0
+/o_peregrino 1 20422 0 0
+/deixem_os_mortos_em_paz 1 20100 0 0
+/arrogancia_literaria_ii 1 21385 0 0
+/o_vento_norte_iniciando_os_trabalhos 1 18869 0 0
+/o_refugio 1 22587 0 0
+/a_baleia_e_o_relogio 1 18925 0 0
+/o_editor 1 17107 0 0
+/ate_que_ponto 1 18973 0 0
+/cartas_do_passado 1 19168 0 0
+/de_bagda_a_kathmandu 1 20315 0 0
+END_SIDER

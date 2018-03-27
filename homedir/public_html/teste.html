@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>Teste</title>
+	</head>
+	<body>
+		<h1>Teste</h1>
+		<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+		<script>
+		new TWTR.Widget({
+			version: 2,
+			type: 'profile',
+			rpp: 3,
+			interval: 6000,
+			width: 250,
+			height: 250,
+			theme: {
+				shell: {
+					background: '#a18100',
+					color: '#ffffff'
+				},
+				tweets: {
+					background: '#8a6300',
+					color: '#ffffff',
+					links: '#ebc507'
+				}
+			},
+			features: {
+				scrollbar: false,
+				loop: false,
+				live: false,
+				hashtags: true,
+				timestamp: false,
+				avatars: true,
+				behavior: 'all'
+			}
+		}).render().setUser('mundosdemirr').start();
+		</script>
+	</body>
+</html>

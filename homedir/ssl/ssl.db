@@ -1,0 +1,49 @@
+--- 
+files: 
+  certificate: 
+    mundosdemirr_com_c75ee_5ef4d_1515974399_bfe421b94d5e41444671e678659dc7ae: 
+      created: '1508122297'
+      domains: 
+        - mundosdemirr.com
+        - autodiscover.mundosdemirr.com
+        - cpanel.mundosdemirr.com
+        - mail.mundosdemirr.com
+        - webdisk.mundosdemirr.com
+        - webmail.mundosdemirr.com
+        - www.mundosdemirr.com
+      friendly_name: Cert for “mundosdemirr.com”
+      id: mundosdemirr_com_c75ee_5ef4d_1515974399_bfe421b94d5e41444671e678659dc7ae
+      is_self_signed: 0
+      issuer.commonName: cPanel, Inc. Certification Authority
+      issuer.organizationName: cPanel, Inc.
+      modulus: c75ee4767427d5660bcc311d867f554cd968c99175fec37d7e3dfa1c77cf9c550dfd3f4768b58fa3c0ddd92a69e80afe13af25d1aa991c84d0438e0e12c5c90e44a3c5f6bc806b788632c8cc8bd1853ede8fd497fdc9d6e432414628d3daad98dfa48bcb3b4181d84a9b83a418c0b653c61e8a7aa3a215f36f2afa6820d7442ed8e879a5158b913863184e5f742b482356f2469d0818686ca467d4caf05284ce7f17ff2654fefcee2112aca564e4bb913432838a09b140a89ec0db98b1b466f5d54c915fcd794e2688f7e0e5d5e66a324e9ed56342f60baf71542be22adc68fb78839de36e3daa2e3859bba6257ae1280677527e1fee8a38b81b4cb8f385ef4d
+      modulus_length: 2048
+      not_after: '1515974399'
+      not_before: '1508112000'
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: mundosdemirr.com
+      validation_type: dv
+  key: 
+    c75ee_5ef4d_71d66480b90272aea2d49817c0a2189e: 
+      created: '1508122297'
+      friendly_name: Key for “mundosdemirr.com” 1
+      id: c75ee_5ef4d_71d66480b90272aea2d49817c0a2189e
+      modulus: c75ee4767427d5660bcc311d867f554cd968c99175fec37d7e3dfa1c77cf9c550dfd3f4768b58fa3c0ddd92a69e80afe13af25d1aa991c84d0438e0e12c5c90e44a3c5f6bc806b788632c8cc8bd1853ede8fd497fdc9d6e432414628d3daad98dfa48bcb3b4181d84a9b83a418c0b653c61e8a7aa3a215f36f2afa6820d7442ed8e879a5158b913863184e5f742b482356f2469d0818686ca467d4caf05284ce7f17ff2654fefcee2112aca564e4bb913432838a09b140a89ec0db98b1b466f5d54c915fcd794e2688f7e0e5d5e66a324e9ed56342f60baf71542be22adc68fb78839de36e3daa2e3859bba6257ae1280677527e1fee8a38b81b4cb8f385ef4d
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    modulus: 
+      c75ee4767427d5660bcc311d867f554cd968c99175fec37d7e3dfa1c77cf9c550dfd3f4768b58fa3c0ddd92a69e80afe13af25d1aa991c84d0438e0e12c5c90e44a3c5f6bc806b788632c8cc8bd1853ede8fd497fdc9d6e432414628d3daad98dfa48bcb3b4181d84a9b83a418c0b653c61e8a7aa3a215f36f2afa6820d7442ed8e879a5158b913863184e5f742b482356f2469d0818686ca467d4caf05284ce7f17ff2654fefcee2112aca564e4bb913432838a09b140a89ec0db98b1b466f5d54c915fcd794e2688f7e0e5d5e66a324e9ed56342f60baf71542be22adc68fb78839de36e3daa2e3859bba6257ae1280677527e1fee8a38b81b4cb8f385ef4d: 
+        mundosdemirr_com_c75ee_5ef4d_1515974399_bfe421b94d5e41444671e678659dc7ae: ~
+    subject.commonName: 
+      mundosdemirr.com: 
+        mundosdemirr_com_c75ee_5ef4d_1515974399_bfe421b94d5e41444671e678659dc7ae: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “mundosdemirr.com”: mundosdemirr_com_c75ee_5ef4d_1515974399_bfe421b94d5e41444671e678659dc7ae
+  key: 
+    friendly_name: 
+      Key for “mundosdemirr.com” 1: c75ee_5ef4d_71d66480b90272aea2d49817c0a2189e
+    modulus: 
+      c75ee4767427d5660bcc311d867f554cd968c99175fec37d7e3dfa1c77cf9c550dfd3f4768b58fa3c0ddd92a69e80afe13af25d1aa991c84d0438e0e12c5c90e44a3c5f6bc806b788632c8cc8bd1853ede8fd497fdc9d6e432414628d3daad98dfa48bcb3b4181d84a9b83a418c0b653c61e8a7aa3a215f36f2afa6820d7442ed8e879a5158b913863184e5f742b482356f2469d0818686ca467d4caf05284ce7f17ff2654fefcee2112aca564e4bb913432838a09b140a89ec0db98b1b466f5d54c915fcd794e2688f7e0e5d5e66a324e9ed56342f60baf71542be22adc68fb78839de36e3daa2e3859bba6257ae1280677527e1fee8a38b81b4cb8f385ef4d: c75ee_5ef4d_71d66480b90272aea2d49817c0a2189e
